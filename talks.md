@@ -2,7 +2,7 @@
 title: Talks
 subtitle: Talks I have made
 layout: "page"
-icon: fa-book
+icon: fa-camera
 order: 3
 ---
 

@@ -2,7 +2,7 @@
 title: Appearences
 subtitle: Interviews for podcasts and video channels
 layout: "page"
-icon: fa-book
+icon: fa-microphone
 order: 3
 ---
 
