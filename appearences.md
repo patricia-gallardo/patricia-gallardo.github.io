@@ -1,6 +1,6 @@
 ---
-title: Podcast/Video Interviews
-subtitle: list of appearances
+title: Appearences
+subtitle: Interviews for podcasts and video channels
 layout: "page"
 icon: fa-book
 order: 3
