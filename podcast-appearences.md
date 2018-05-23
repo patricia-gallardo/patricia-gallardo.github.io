@@ -6,5 +6,6 @@ icon: fa-book
 order: 3
 ---
 
-[Channel9](https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/C9L15)
-[CppCast](http://cppcast.com/2017/09/patricia-aas/)
+Interview on [Channel9](https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/C9L15) at NDC Oslo 2017
+
+Interview on [CppCast](http://cppcast.com/2017/09/patricia-aas/)
