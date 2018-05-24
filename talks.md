@@ -28,9 +28,9 @@ Fscons 2017 : Trust, Elections and Twitter
 
 Sikkert NOK 2017 : Make It Fixable
 
-NDC TechTown 2017 : Making a Headless Android Device (with Johan Herland)
+NDC TechTown 2017 : [Making a Headless Android Device (with Johan Herland)](/2017/10/23/headless_android_device.html)
 
-JavaZone 2017 : C++ for Java Developers
+JavaZone 2017 : [C++ for Java Developers](/2017/09/13/cpp_for_java_devs.html)
 
 Security Researchers Meetup 0x05 2017 : [Linux Security and How Web Browser Sandboxes Really Work - Code](/2017/06/19/linux_security_sandboxes.html)
 
