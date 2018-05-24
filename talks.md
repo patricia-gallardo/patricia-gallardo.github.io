@@ -12,7 +12,7 @@ Oslo Embedded Meetup 2018 : Making a Headless Android Device
 
 Foss-North 2018 : Isolating GPU Access in its Own Process
 
-JavaZone Academy 2018 : C++ for Java Developers
+JavaZone Academy 2018 : [C++ for Java Developers](/2018/02/06/cpp_for_java_devs.html)
 
 NDC Security 2018 : [Secure Programming Practices in C++](/2018/01/24/secure_programming_cpp.html)
 
