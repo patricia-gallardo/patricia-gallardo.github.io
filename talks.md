@@ -16,11 +16,11 @@ JavaZone Academy 2018 : C++ for Java Developers
 
 NDC Security 2018 : Secure Programming Practices in C++
 
-NDC London 2018 : Make It Fixable, Living with Risk
+NDC London 2018 : [Make It Fixable, Living with Risk](/2018/01/19/living_with_risk.html)
 
 2017 :
 
-SwedenCpp Meetup 2017 : C++ for Java Developers
+SwedenCpp Meetup 2017 : [C++ for Java Developers](/2017/11/16/cpp_for_java_devs.html)
 
 SwedenCpp Meetup 2017 : [Linux Security APIs and the Chromium Sandbox](/2017/11/16/linux_browser_sandboxes.html)
 
