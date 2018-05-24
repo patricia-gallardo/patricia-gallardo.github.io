@@ -24,7 +24,7 @@ SwedenCpp Meetup 2017 : C++ for Java Developers
 
 SwedenCpp Meetup 2017 : Linux Security APIs and the Chromium Sandbox
 
-Fscons 2017 : Trust, Elections and Twitter
+Fscons 2017 : [Trust, Elections and Twitter](/2017/11/05/trust_elections_and_twitter.html)
 
 Sikkert NOK 2017 : [Make It Fixable](/2017/10/26/make_it_fixable.html)
 
