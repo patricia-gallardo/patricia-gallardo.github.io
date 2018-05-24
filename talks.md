@@ -16,4 +16,4 @@ NDC Oslo 2017 : Linux Security and How Web Browser Sandboxes Really Work
 
 Paranoia 2017 : Make it Fixable, Living with Risk
 
-Security Divas 2017 : Make it Fixable, Designing for Change
+Security Divas 2017 : (Make it Fixable, Designing for Change)[/2017/01/26/designing-for-change.html]
