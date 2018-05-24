@@ -1,6 +1,6 @@
 ---
 title: NDC TechTown 2017
-author: Patricia
+author: Patricia and Johan Herland
 layout: post
 icon: fa-film
 ---
