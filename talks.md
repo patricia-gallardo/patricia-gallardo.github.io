@@ -26,7 +26,7 @@ SwedenCpp Meetup 2017 : Linux Security APIs and the Chromium Sandbox
 
 Fscons 2017 : Trust, Elections and Twitter
 
-Sikkert NOK 2017 : Make It Fixable
+Sikkert NOK 2017 : [Make It Fixable](/2017/10/26/make_it_fixable.html)
 
 NDC TechTown 2017 : [Making a Headless Android Device (with Johan Herland)](/2017/10/23/headless_android_device.html)
 
