@@ -23,51 +23,6 @@ I was floored. I had been tweeting into the void for a month and a half, and my 
 
 The week from when my thread went mini-viral and until the regulation was issued, I was thrown into a news cycle I had no knowledge of. Journalists were calling me, I was on TV, in print, in online media, and even on the radio. I had no idea what I was doing. I am a total nerd, and suddenly I was on TV debating electoral systems with the director of the Norwegian Directorate of Elections.
 
-<div class="table-wrapper">
-  <table>
-    <thead>
-      <tr>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Price</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Item 1</td>
-        <td>Ante turpis integer aliquet porttitor.</td>
-        <td>29.99</td>
-      </tr>
-      <tr>
-        <td>Item 2</td>
-        <td>Vis ac commodo adipiscing arcu aliquet.</td>
-        <td>19.99</td>
-      </tr>
-      <tr>
-        <td>Item 3</td>
-        <td> Morbi faucibus arcu accumsan lorem.</td>
-        <td>29.99</td>
-      </tr>
-      <tr>
-        <td>Item 4</td>
-        <td>Vitae integer tempus condimentum.</td>
-        <td>19.99</td>
-      </tr>
-      <tr>
-        <td>Item 5</td>
-        <td>Ante turpis integer aliquet porttitor.</td>
-        <td>29.99</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="2"></td>
-        <td>100.00</td>
-      </tr>
-    </tfoot>
-  </table>
-</div>
-
 To say I was out of my league, would be an understatement.
 
 What I experienced, though, was an online community that lifted my message, lifted my spirits and helped me anonymously with my research. I didn’t feel alone once.
@@ -83,3 +38,6 @@ I’m passionate about the Internet, and on good days I am certain that it will 
 I will carry with me my little battle for democracy to sustain me on the bad days, and carry close to my heart a GIF one of my followers posted to me when I really needed it. It had the caption: “We’ve got this!”
 
 And I think we do.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"> <a href="https://t.co/8yu1nkvXVY">pic.twitter.com/8yu1nkvXVY</a></p>&mdash; Thomas Steen (@ThAOSteen) <a href="https://twitter.com/ThAOSteen/status/904063467392552961?ref_src=twsrc%5Etfw">September 2, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
