@@ -8,7 +8,7 @@ order: 3
 
 2018
 
-Oslo Embedded Meetup 2018 : Making a Headless Android Device
+Oslo Embedded Meetup 2018 : [Making a Headless Android Device](/2018/05/07/headless_android_device.html)
 
 Foss-North 2018 : [Isolating GPU Access in its Own Process](/2018/04/23/isolating_gpu_access.html)
 
