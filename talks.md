@@ -34,8 +34,8 @@ JavaZone 2017 : [C++ for Java Developers](/2017/09/13/cpp_for_java_devs.html)
 
 Security Researchers Meetup 0x05 2017 : [Linux Security and How Web Browser Sandboxes Really Work - Code](/2017/06/19/linux_security_sandboxes.html)
 
-NDC Oslo 2017 : [Linux Security and How Web Browser Sandboxes Really Work](/2017/06/15/linux-browser-sandboxes.html)
+NDC Oslo 2017 : [Linux Security and How Web Browser Sandboxes Really Work](/2017/06/15/linux_browser_sandboxes.html)
 
-Paranoia 2017 : [Make it Fixable, Living with Risk](/2017/05/10/living-with-risk.html)
+Paranoia 2017 : [Make it Fixable, Living with Risk](/2017/05/10/living_with_risk.html)
 
-Security Divas 2017 : [Make it Fixable, Designing for Change](/2017/01/26/designing-for-change.html)
+Security Divas 2017 : [Make it Fixable, Designing for Change](/2017/01/26/designing_for_change.html)
