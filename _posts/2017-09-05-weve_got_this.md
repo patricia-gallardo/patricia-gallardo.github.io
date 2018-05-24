@@ -5,6 +5,8 @@ layout: post
 icon: fa-pencil
 ---
 
+<span class="image right"><img src="{{ 'assets/images/graffiti-3273884_1920.jpg' | relative_url }}" alt="" /></span>
+
 This last week has been a harrowing experience for me. I’m an introverted programmer and generally a very private person, and in the space of just a few days I was suddenly in the news, both nationally and internationally. Even though the experience was completely overwhelming, I have rarely been so touched and so grateful.
 
 The backstory is a personal campaign of mine on Twitter. I have been interested in election systems since I did my masters thesis in that field 12 years ago, and the last year has really brought the security of election systems to the mainstream public worldwide. This summer the security conference Defcon in Las Vegas (NV) featured a Hacking Village for voting machines, and with this background I began to tweet questions about the security of the Norwegian election systems. The questions focused mostly on the electronic ballot counting system and were directed at the Norwegian Directorate of Elections and the Norwegian Ministry of Local Government and Modernisation.
