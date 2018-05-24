@@ -1,6 +1,6 @@
 ---
 title: We’ve got this!
-author: Patricia
+author: Patricia Aas
 layout: post
 icon: fa-pencil
 ---

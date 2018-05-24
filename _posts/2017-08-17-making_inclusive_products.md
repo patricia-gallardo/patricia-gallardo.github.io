@@ -1,6 +1,6 @@
 ---
 title: Making Inclusive Products
-author: Patricia
+author: Patricia Aas
 layout: post
 icon: fa-pencil
 ---

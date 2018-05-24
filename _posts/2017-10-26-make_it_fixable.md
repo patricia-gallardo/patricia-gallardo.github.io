@@ -1,6 +1,6 @@
 ---
 title: Sikkert NOK 2017
-author: Patricia
+author: Patricia Aas
 layout: post
 icon: fa-film
 ---
