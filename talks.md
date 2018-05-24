@@ -10,7 +10,7 @@ order: 3
 
 Oslo Embedded Meetup 2018 : Making a Headless Android Device
 
-Foss-North 2018 : Isolating GPU Access in its Own Process
+Foss-North 2018 : [Isolating GPU Access in its Own Process](/2018/04/23/isolating_gpu_access.html)
 
 JavaZone Academy 2018 : [C++ for Java Developers](/2018/02/06/cpp_for_java_devs.html)
 
