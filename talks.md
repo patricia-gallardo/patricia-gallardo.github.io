@@ -22,7 +22,7 @@ NDC London 2018 : Make It Fixable, Living with Risk
 
 SwedenCpp Meetup 2017 : C++ for Java Developers
 
-SwedenCpp Meetup 2017 : Linux Security APIs and the Chromium Sandbox
+SwedenCpp Meetup 2017 : [Linux Security APIs and the Chromium Sandbox](/2017/11/16/linux_browser_sandboxes.html)
 
 Fscons 2017 : [Trust, Elections and Twitter](/2017/11/05/trust_elections_and_twitter.html)
 
