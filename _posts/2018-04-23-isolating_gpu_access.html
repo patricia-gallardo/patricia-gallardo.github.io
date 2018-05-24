@@ -1,0 +1,18 @@
+---
+title: Foss-North 2018
+author: Patricia
+layout: post
+icon: fa-film
+---
+
+<h2>Isolating GPU Access in its Own Process </h2>
+
+<p>
+  Chromium's process architecture has graphics access restricted to a separate GPU-process. There are several reasons why this could make sense, three common ones are: Security, Robustness and Dependency Separation. 
+GPU access restricted to a single process requires an efficient framework for communication over IPC from the other processes, and most likely a framework for composition of surfaces. This talk describes both the possible motivations for this kind of architecture and Chromium's solution for the IPC framework. We will demonstrate how a multi-process program can compose into a single window on Linux.
+</p>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ioIdUI0DPqBSea" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PatriciaAas/isolating-gpu-access-in-its-own-process-fossnorth-2018" title="Isolating GPU Access in its Own Process (Foss-North 2018)" target="_blank">Isolating GPU Access in its Own Process (Foss-North 2018)</a> </strong> from <strong><a href="https://www.slideshare.net/PatriciaAas" target="_blank">Patricia Aas</a></strong> </div>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Oow7r4xQdDs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
