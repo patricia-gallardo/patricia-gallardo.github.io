@@ -14,7 +14,7 @@ Foss-North 2018 : Isolating GPU Access in its Own Process
 
 JavaZone Academy 2018 : C++ for Java Developers
 
-NDC Security 2018 : Secure Programming Practices in C++
+NDC Security 2018 : [Secure Programming Practices in C++](/2018/01/24/secure_programming_cpp.html)
 
 NDC London 2018 : [Make It Fixable, Living with Risk](/2018/01/19/living_with_risk.html)
 
