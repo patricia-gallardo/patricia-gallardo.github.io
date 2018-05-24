@@ -11,7 +11,7 @@ The backstory is a personal campaign of mine on Twitter. I have been interested 
 
 They ignored me.
 
-<span class="image right"><img src="{{ 'assets/images/graffiti-488883_1920.jpg' | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ 'assets/images/graffiti-488883_640.jpg' | relative_url }}" alt="" /></span>
 
 However, I don’t want to talk about that now, because how the rest of the story unfolded has reaffirmed for me both the power of people coming together online, and how a free society is a multifaceted and valuable thing.
 
