@@ -9,3 +9,5 @@ order: 3
 Interview on [Channel9](https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/C9L15) at NDC Oslo 2017
 
 Interview on [CppCast](http://cppcast.com/2017/09/patricia-aas/)
+
+Interview in Digi (Norwegian online newspaper) [– Koding var alt jeg likte med matte, bare bedre](https://www.digi.no/artikler/koding-var-alt-jeg-likte-med-matte-bare-bedre/415558?key=nNywxlU6)
