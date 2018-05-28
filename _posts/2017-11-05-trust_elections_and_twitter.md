@@ -3,6 +3,7 @@ title: Fscons 2017
 author: Patricia Aas
 layout: post
 icon: fa-film
+image: "/assets/images/wall-2602089_640.jpg"
 ---
 <h2>Trust, Elections and Twitter</h2>
 

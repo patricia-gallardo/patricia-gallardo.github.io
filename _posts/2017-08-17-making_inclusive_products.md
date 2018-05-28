@@ -3,6 +3,7 @@ title: Making Inclusive Products
 author: Patricia Aas
 layout: post
 icon: fa-pencil
+image: "/assets/images/superhero-2483674_640.png"
 ---
 
 I have spent some time trying to explain the issues around the “Googler memo” lately, and it has made some things clear to me. First of all, most of us want to make the best products we can. We also realise that this means that those products have to work for all kinds of people. The problem is: It has become increasingly clear that we are not doing a great job catering to needs we don’t have ourselves. We are creating products that don’t work on people with dark skin, doesn’t cater to the needs of women, are offensive to people with different gender identities etc.

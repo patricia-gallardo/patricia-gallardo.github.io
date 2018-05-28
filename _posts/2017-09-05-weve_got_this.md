@@ -3,6 +3,7 @@ title: We’ve got this!
 author: Patricia Aas
 layout: post
 icon: fa-pencil
+image: "/assets/images/graffiti-3273884_640.jpg"
 ---
 
 This last week has been a harrowing experience for me. I’m an introverted programmer and generally a very private person, and in the space of just a few days I was suddenly in the news, both nationally and internationally. Even though the experience was completely overwhelming, I have rarely been so touched and so grateful.

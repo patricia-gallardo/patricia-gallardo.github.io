@@ -3,6 +3,7 @@ title: NDC TechTown 2017
 author: Patricia Aas and Johan Herland
 layout: post
 icon: fa-film
+image: "/assets/images/graffiti-1385487_640.jpg"
 ---
 
 <h2>Making a Headless Android Device</h2>

@@ -3,6 +3,7 @@ title: Sikkert NOK 2017
 author: Patricia Aas
 layout: post
 icon: fa-film
+image: "/assets/images/wall-2602082_640.jpg"
 ---
 
 <h2>Make It Fixable</h2>

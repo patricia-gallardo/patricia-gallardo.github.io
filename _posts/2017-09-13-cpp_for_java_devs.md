@@ -3,6 +3,7 @@ title: JavaZone 2017
 author: Patricia Aas
 layout: post
 icon: fa-film
+image: "/assets/images/street-art-1183812_640.jpg"
 ---
 <h2>C++ for Java Developers</h2>
 
