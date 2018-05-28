@@ -1,5 +1,6 @@
 ---
 title: We’ve got this!
+description: A Thank You to Twitterverse
 author: Patricia Aas
 layout: post
 icon: fa-pencil

@@ -1,5 +1,6 @@
 ---
 title: JavaZone 2017
+description: C++ for Java Developers
 author: Patricia Aas
 layout: post
 icon: fa-film

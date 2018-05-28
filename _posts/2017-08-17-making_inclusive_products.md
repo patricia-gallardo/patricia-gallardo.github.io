@@ -1,5 +1,6 @@
 ---
 title: Making Inclusive Products
+description: The People In The Room
 author: Patricia Aas
 layout: post
 icon: fa-pencil
