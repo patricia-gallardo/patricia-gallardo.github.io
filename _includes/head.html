@@ -36,6 +36,14 @@
   <meta property="og:url" content="{{- page.url | absolute_url -}}" />
   <meta property="og:site_name" content="{{- site.title | escape -}}" />
   <meta property="og:description" content="{{- _page_description -}}" />
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/icon/apple-touch-icon.png" | absolute_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/icon/favicon-32x32.png" | absolute_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/icon/favicon-16x16.png" | absolute_url }}">
+  <link rel="manifest" href="{{ "/assets/icon/manifest.json" | absolute_url }}">
+  <link rel="shortcut icon" href="{{ "/assets/icon/favicon.ico" | absolute_url }}">
+  <link rel="icon" type="image/png" href="{{- 'assets/icon/pati-263x263.png' | relative_url -}}" />
   
   <!-- Styles -->
   <meta charset="utf-8" />
@@ -44,7 +52,6 @@
   <link rel="stylesheet" href="{{- 'assets/css/main.css' | relative_url -}}" />
   <!--[if lte IE 8]><link rel="stylesheet" href="{{- 'assets/css/ie8.css' | relative_url -}}" /><![endif]-->
   <!--[if lte IE 9]><link rel="stylesheet" href="{{- 'assets/css/ie9.css' | relative_url -}}" /><![endif]-->
-  <link rel="icon" type="image/png" href="{{- 'assets/images/patricia.png' | relative_url -}}" />
 
   <!-- Scripts -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" defer></script>
