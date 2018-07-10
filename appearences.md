@@ -21,9 +21,9 @@ Interview in Digi (Norwegian online newspaper) [– Koding var alt jeg likte med
 ## 2017
 
 ### CppCast
-Interviewed by [Rob Irving](https://twitter.com/robwirving) and [Jason Turner](https://twitter.com/lefticus) on [CppCast] in September 2017.(http://cppcast.com/2017/09/patricia-aas/)
+Interviewed by [Rob Irving](https://twitter.com/robwirving) and [Jason Turner](https://twitter.com/lefticus) on [CppCast](http://cppcast.com/2017/09/patricia-aas/) in September 2017.
 <iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/61449/51640971" width="220" height="150" frameborder="0" scrolling="no"></iframe>
 
 ### Channel9
-Interview on [Channel9](https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/C9L15) at NDC Oslo 2017
+Interviewed by [Seth Juarez](https://twitter.com/sethjuarez) on [Channel9](https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/C9L15) during NDC Oslo in June 2017
 <iframe src="https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/C9L15/player" width="960" height="540" allowFullScreen frameBorder="0"></iframe>
