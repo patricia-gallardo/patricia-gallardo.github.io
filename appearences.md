@@ -6,8 +6,6 @@ icon: fa-microphone
 order: 3
 ---
 
-# Appearences
-
 ## 2018
 
 Interview on [Hanselminutes](https://hanselminutes.com/638/c-and-browser-monoculture-with-vivaldis-patricia-aas)

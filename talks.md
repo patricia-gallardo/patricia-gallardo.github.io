@@ -6,8 +6,6 @@ icon: fa-film
 order: 3
 ---
 
-# Talks
-
 ## 2018
 
 Web Rebels 2018 : [Reading Other People's Code](/2018/06/04/reading_other_peoples_code.html)
