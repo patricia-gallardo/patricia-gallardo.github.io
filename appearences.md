@@ -9,11 +9,11 @@ order: 3
 ## 2018
 
 ### Hanselminutes
-Interview on [Hanselminutes](https://hanselminutes.com/638/c-and-browser-monoculture-with-vivaldis-patricia-aas)
+Interviewed by [Scott Hanselman](https://twitter.com/shanselman) on [Hanselminutes](https://hanselminutes.com/638/c-and-browser-monoculture-with-vivaldis-patricia-aas) in May 2018, which was published in June 2018.
 <iframe src='https://embed.simplecast.com/754c4dd1' width='100%' frameborder='0' height='200px' scrolling='no' seamless></iframe>
 
 ### FluentCpp
-Guest blogpost on fluentcpp [10 Techniques That Will Make You Understand Other People’s Code Better](https://www.fluentcpp.com/2018/06/05/10-techniques-that-will-make-you-understand-other-peoples-code-better/) which was also republished on the [Vivaldi blog](https://vivaldi.com/blog/10-techniques-that-will-make-you-understand-other-peoples-code-better/)
+Guest blogpost on fluentcpp [10 Techniques That Will Make You Understand Other People’s Code Better](https://www.fluentcpp.com/2018/06/05/10-techniques-that-will-make-you-understand-other-peoples-code-better/) which was also republished on the [Vivaldi blog](https://vivaldi.com/blog/10-techniques-that-will-make-you-understand-other-peoples-code-better/). This was also the basis of a talk called [Reading Other People's Code](/2018/06/04/reading_other_peoples_code.html) which was presented at Web Rebels 2018.
 
 ### Digi
 Interview in Digi (Norwegian online newspaper) [– Koding var alt jeg likte med matte, bare bedre](https://www.digi.no/artikler/koding-var-alt-jeg-likte-med-matte-bare-bedre/415558?key=nNywxlU6)
