@@ -22,6 +22,7 @@ Interview in Digi (Norwegian online newspaper) [– Koding var alt jeg likte med
 
 ### CppCast
 Interview on [CppCast](http://cppcast.com/2017/09/patricia-aas/)
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/61449/51640971" width="220" height="150" frameborder="0" scrolling="no"></iframe>
 
 ### Channel9
 Interview on [Channel9](https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/C9L15) at NDC Oslo 2017
