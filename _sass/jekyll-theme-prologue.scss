@@ -63,6 +63,7 @@
 :root {
     --menu-fg-color: #ffffff;
     --menu-bg-color: #4fa29c;
+    --body-fg-color: #444;
 }
 
 
@@ -72,7 +73,7 @@ body {
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
-    color: #888;
+    color: var(--body-fg-color);
 
     &.is-loading * {
 	@include vendor('transition', 'none !important');
@@ -85,7 +86,7 @@ input, textarea, select {
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
-    color: #888;
+    color: var(--body-fg-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
