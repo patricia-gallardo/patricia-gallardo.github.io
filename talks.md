@@ -8,6 +8,10 @@ order: 3
 
 ## 2018
 
+NDC Oslo 2018 : [Deconstructing Privilege](/2018/06/15/deconstructing_privilege.html)
+
+NDC Oslo 2018 : [Secure Programming Practices in C++](/2018/06/14/secure_programming_practices.html)
+
 Web Rebels 2018 : [Reading Other People's Code](/2018/06/04/reading_other_peoples_code.html)
 
 Oslo Embedded Meetup 2018 : [Making a Headless Android Device](/2018/05/07/headless_android_device.html)
