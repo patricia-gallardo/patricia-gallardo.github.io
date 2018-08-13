@@ -4,7 +4,7 @@ description: Learning by Doing
 author: Patricia Aas
 layout: post
 icon: fa-pencil
-image: "/assets/images/face-woman-3514196_640.jpg"
+image: "/assets/images/street-art-1457375_640.jpg"
 ---
 
 I understand why it might seem odd that the first thing I make is a browser, especially right after leaving a browser company. The logic behind it is a bit convoluted, but bear with me. I have a plan.
