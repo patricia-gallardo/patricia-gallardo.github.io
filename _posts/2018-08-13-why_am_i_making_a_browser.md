@@ -11,9 +11,7 @@ I understand why it might seem odd that the first thing I make is a browser, esp
 
 <span class="image right"><img src="{{ 'assets/images/art-3558354_640.jpg' | relative_url }}" alt="" /></span>
 
-In the coming months I aim to learn and make a wide variety of things. Each thing I’m planning to make should provide me with at least two things:
-What I make should (over time) evolve into a tool I can use in my job
-I should learn something I’ve been wanting to learn
+In the coming months I aim to learn and make a wide variety of things. Each thing I’m planning to make should provide me with at least two things: First, what I make should (over time) evolve into a tool I can use in my job, and secondly, I should learn something I’ve been wanting to learn.
 
 A third concern is that I need to prepare for conference talks that I’m doing this fall. So the order in which I’m making things is going to be influenced by which talk is next. 
 
