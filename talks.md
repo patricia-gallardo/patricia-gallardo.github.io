@@ -8,6 +8,10 @@ order: 3
 
 ## 2018
 
+NDC TechTown 2018 : [Linux Security APIs and the Chromium Sandbox](/2018/08/30/linux_security_in_the_chromium_sandbox.html)
+
+NDC TechTown 2018 : [Isolating GPU Access in its Own Process](/2018/08/30/isolating_gpu_access.html)
+
 NDC Oslo 2018 : [Deconstructing Privilege](/2018/06/15/deconstructing_privilege.html)
 
 NDC Oslo 2018 : [Secure Programming Practices in C++](/2018/06/14/secure_programming_practices.html)
