@@ -1,6 +1,6 @@
 ---
 title: Linux Security APIs and the Chromium Sandbox
-description: Using Linux APIs to Isolate Processes
+description: Using Linux APIs to Isolate Processes (NDC TechTown 2018)
 author: Patricia Aas
 layout: post
 icon: fa-film
@@ -11,4 +11,8 @@ The Linux Security and Isolation APIs have become the basis of some of the most 
 
 The Chromium Sandbox is used in the Vivaldi, Brave, Chrome and Opera browsers among others. It has a very platform specific implementation, using the platform APIs available to construct it. In this talk we will describe the requirements of the Chromium Sandbox and go through the steps and APIs used to construct it on Linux.
 
+Presented at [NDC TechTown 2018][1]
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/K13hwbelSJA5Rg" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PatriciaAas/linux-security-apis-and-the-chromium-sandbox" title="Linux Security APIs and the Chromium Sandbox" target="_blank">Linux Security APIs and the Chromium Sandbox</a> </strong> from <strong><a href="https://www.slideshare.net/PatriciaAas" target="_blank">Patricia Aas</a></strong> </div>
+
+[1]: https://ndctechtown.com
