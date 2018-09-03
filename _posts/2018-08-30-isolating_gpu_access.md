@@ -1,6 +1,6 @@
 ---
 title: Isolating GPU Access in its Own Process
-description: Composing Using Multiple Processes
+description: Composing Using Multiple Processes (NDC TechTown 2018)
 author: Patricia Aas
 layout: post
 icon: fa-film
