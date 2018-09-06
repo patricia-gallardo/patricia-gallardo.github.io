@@ -22,7 +22,7 @@ Yesterday I saw a tweet from Erin Fox @erinfoox where she asked a simple questio
 
 ### 3) HR is not your friend
 
-   In my experience the less HR knows your alive the better. Even though they are often women, they will, in my experience, never really help you. They'll say all the right things, but you can consider yourself to be on an unofficial "troublemaker" list if you tell them anything negative. It is not uncommon that the woman is the one that is subtly made to leave after being harassed.
+   In my experience the less HR knows you're alive the better. Even though they are often women, they will, in my experience, never really help you. They'll say all the right things, but you can consider yourself to be on an unofficial "troublemaker" list if you tell them anything negative. It is not uncommon that the woman is the one that is subtly made to leave after being harassed.
 
 ### 4) Avoid everyone who is really enthusiastic about you being a woman.
 
