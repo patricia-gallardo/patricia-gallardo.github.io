@@ -543,6 +543,29 @@ button,
     }
 }
 
+@media print {
+	body {
+	font: 1em Georgia, "Times New Roman", Times, serif;
+	color: #000;
+	background: #fff;
+	padding: 0 3em;
+	}
+	#header {
+	display: none;
+	}
+	#main {
+	margin-left: 0;
+	}
+	#main>section.shade-two, #main article.shade-two {
+		background-color: #fff;
+	}
+	#footer {
+	background-color: #fff;
+	margin-left: 0;
+	text-align: left;
+	}
+}
+
 #logo {
     position: relative;
     margin: 1.75em 1.5em 1.5em 1.5em;
