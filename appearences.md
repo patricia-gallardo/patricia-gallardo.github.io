@@ -1,5 +1,5 @@
 ---
-title: Appearences
+title: Appearances
 subtitle: Interviews for podcasts and video channels
 layout: "page"
 icon: fa-microphone
