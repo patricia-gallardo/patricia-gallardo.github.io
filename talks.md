@@ -8,6 +8,16 @@ order: 3
 
 ## 2018
 
+BlackHoodie 2018 & OWASP Norway Day 2018 : [Linux Security APIs and the Chromium Sandbox](/2018/11/20/linux_security_in_the_chromium_sandbox.html)
+
+DevOpsDays Oslo 2018 : [Deconstructing Privilege - Keynote](/2018/10/29/deconstructing_privilege.html)
+
+CppCon 2018 : [Software Vulnerabilities in C and C++](/2018/09/26/software-vulnerabilities-in-c-and-cpp.html)
+
+CppCon 2018 : [Make It Fixable](/2018/09/25/make_it_fixable.html)
+
+NDC Sydney 2018 : [Reading Other People's Code](/2018/09/19/reading_other_peoples_code.html)
+
 NDC TechTown 2018 : [Linux Security APIs and the Chromium Sandbox](/2018/08/30/linux_security_in_the_chromium_sandbox.html)
 
 NDC TechTown 2018 : [Isolating GPU Access in its Own Process](/2018/08/30/isolating_gpu_access.html)
