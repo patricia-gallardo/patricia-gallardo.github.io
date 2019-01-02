@@ -9,12 +9,10 @@ order: 3
 ## 2018
 
 ### All Things Git
-Interviewed by [Edward Thomson](https://twitter.com/ethomson) on [All Things Git]
-(https://www.allthingsgit.com/episodes/learning_a_new_codebase_with_patricia_aas.html) November 20rd, 2018
+Interviewed by [Edward Thomson](https://twitter.com/ethomson) on [All Things Git](https://www.allthingsgit.com/episodes/learning_a_new_codebase_with_patricia_aas.html) November 20rd, 2018
 
 ### .NET Rocks!
-Interviewed by [Carl Franklin](https://twitter.com/carlfranklin) and [Richard Campbell](https://twitter.com/richcampbell) on [.NET Rocks!]
-(https://dotnetrocks.com/?show=1586) September 26th, 2018
+Interviewed by [Carl Franklin](https://twitter.com/carlfranklin) and [Richard Campbell](https://twitter.com/richcampbell) on [.NET Rocks!](https://dotnetrocks.com/?show=1586) September 26th, 2018
 
 ### Hanselminutes
 Interviewed by [Scott Hanselman](https://twitter.com/shanselman) on [Hanselminutes](https://hanselminutes.com/638/c-and-browser-monoculture-with-vivaldis-patricia-aas) in May 2018, which was published in June 2018.
