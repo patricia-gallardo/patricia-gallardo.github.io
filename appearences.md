@@ -9,13 +9,16 @@ order: 3
 ## 2018
 
 ### All Things Git
-Interviewed by [Edward Thomson](https://twitter.com/ethomson) on [All Things Git](https://www.allthingsgit.com/episodes/learning_a_new_codebase_with_patricia_aas.html) November 20rd, 2018
+Interviewed by [Edward Thomson](https://twitter.com/ethomson) on [All Things Git](https://www.allthingsgit.com) November 20rd, 2018: <br>
+[Learning a New Codebase with Patricia Aas](https://www.allthingsgit.com/episodes/learning_a_new_codebase_with_patricia_aas.html)
 
 ### .NET Rocks!
-Interviewed by [Carl Franklin](https://twitter.com/carlfranklin) and [Richard Campbell](https://twitter.com/richcampbell) on [.NET Rocks!](https://dotnetrocks.com/?show=1586) September 26th, 2018
+Interviewed by [Carl Franklin](https://twitter.com/carlfranklin) and [Richard Campbell](https://twitter.com/richcampbell) on [.NET Rocks!](https://dotnetrocks.com) September 26th, 2018: <br>
+[Reading Other People's Code with Patricia Aas](https://dotnetrocks.com/?show=1586)
 
 ### Hanselminutes
-Interviewed by [Scott Hanselman](https://twitter.com/shanselman) on [Hanselminutes](https://hanselminutes.com/638/c-and-browser-monoculture-with-vivaldis-patricia-aas) in May 2018, which was published in June 2018.
+Interviewed by [Scott Hanselman](https://twitter.com/shanselman) on [Hanselminutes](https://hanselminutes.com) in May 2018, which was published in June 2018: <br>
+[C++ and Browser Monoculture with Vivaldi's Patricia Aas](https://hanselminutes.com/638/c-and-browser-monoculture-with-vivaldis-patricia-aas)
 <iframe src='https://embed.simplecast.com/754c4dd1' width='100%' frameborder='0' height='200px' scrolling='no' seamless></iframe>
 
 ### FluentCpp
