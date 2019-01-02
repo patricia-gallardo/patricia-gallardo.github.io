@@ -7,7 +7,7 @@ icon: fa-film
 image: "/assets/images/human-3190531_640.jpg"
 ---
 
-Yesterday I saw a tweet from Erin Fox @erinfoox where she asked a simple question: “Who else is the only woman on their dev team?” When I answered her that I’d been the only woman dev most of my career, she asked be if I had any survival tips, and I wrote her a list of 24 tips. Quite frankly it could easily be 50. I will list the 24 here, with a little more elaboration.
+Yesterday I saw a tweet from Erin Fox @erinfoox where she asked a simple question: “Who else is the only woman on their dev team?” When I answered her that I’d been the only woman dev most of my career, she asked me if I had any survival tips, and I wrote her a list of 24 tips. Quite frankly it could easily be 50. I will list the 24 here, with a little more elaboration.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">💔💔💔 any tips of survival?</p>&mdash; Erin Fox (@erinfoox) <a href="https://twitter.com/erinfoox/status/1037384861751930885?ref_src=twsrc%5Etfw">September 5, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -26,7 +26,7 @@ Yesterday I saw a tweet from Erin Fox @erinfoox where she asked a simple questio
 
 ### 4) Avoid everyone who is really enthusiastic about you being a woman.
 
-   This seems like a strange one, but from experience these people are usually the most dangerous. They sneak up on you. Because they seem like “allies” in the beginning. But in the end they don’t really see *you* and you are often just a pawn or a prop in some other angle that they are working. Harassment is only one angle, many times they are just trying to improve some statistic and will gladly replace you with a woman than is "less trouble". Smile and nod, don't tell them anything and stay out of their way. Note that they can be both men and women.
+   This seems like a strange one, but from experience these people are usually the most dangerous. They sneak up on you. Because they seem like “allies” in the beginning. But in the end they don’t really see *you* and you are often just a pawn or a prop in some other angle that they are working. Harassment is only one angle, many times they are just trying to improve some statistic and will gladly replace you with a woman that is "less trouble". Smile and nod, don't tell them anything and stay out of their way. Note that they can be both men and women.
 
 ### 5) Leave functions before your colleagues are drunk. Neither you nor them want you to know their inner thoughts
 
