@@ -6,6 +6,30 @@ icon: fa-film
 order: 3
 ---
 
+## 2019
+
+NDC Oslo 2019 : [Trying to learn C#](/2019/06/21/trying_to_learn_c_sharp.html)
+
+CPPP 2019 : [The Anatomy of an Exploit](/2019/06/15/the_anatomy_of_an_exploit.html)
+
+Paranoia 2019 : [Why Is Election Security So Hard?](/2019/05/21/why_is_election_security_so_hard.html)
+
+ACCU 2019 : [The Anatomy of an Exploit](/2019/04/10/the_anatomy_of_an_exploit.html)
+
+NDC Copenhagen 2019 : [Reading Other People's Code](/2019/03/29/reading_other_peoples_code.html)
+
+FemTech 2019 : [6 DevSecOps Hacks](/2019/03/27/6_devsecops_hacks.html)
+
+Security Researchers Meetup 0x07 : [C++ The Principles of Most Surprise](/2019/02/25/cpp_the_principles_of_most_surprise.html)
+
+C++ on Sea : [Deconstructing Privilege, Keynote](/2019/02/04/keynote_deconstructing_privilege.html)
+
+NDC London 2019 : [Reading Other People's Code](/2019/01/30/reading_other_peoples_code.html)
+
+NDC Security 2019 : [DevSecOps for Developers, How To Start](/2019/01/25/devsecops_for_developers.html)
+
+NDC Security 2019 : [Linux Security APIs and the Chromium Sandbox](/2019/01/25/linux_security_in_the_chromium_sandbox.html)
+
 ## 2018
 
 BlackHoodie 2018 & OWASP Norway Day 2018 : [Linux Security APIs and the Chromium Sandbox](/2018/11/20/linux_security_in_the_chromium_sandbox.html)
@@ -31,6 +55,8 @@ Web Rebels 2018 : [Reading Other People's Code](/2018/06/04/reading_other_people
 Oslo Embedded Meetup 2018 : [Making a Headless Android Device](/2018/05/07/headless_android_device.html)
 
 Foss-North 2018 : [Isolating GPU Access in its Own Process](/2018/04/23/isolating_gpu_access.html)
+
+NDC Copenhagen 2018 : [Make It Fixable](/2018/03/16/make_it_fixable.html)
 
 JavaZone Academy 2018 : [C++ for Java Developers](/2018/02/06/cpp_for_java_devs.html)
 
