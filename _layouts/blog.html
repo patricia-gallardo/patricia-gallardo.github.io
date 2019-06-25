@@ -14,6 +14,7 @@ layout: default
 			<a href="{{- _post.url | absolute_url -}}">{{- _post.title -}}</a>
 		{%- endcapture -%}
 		{%- capture _subtitle -%}
+			{% if _post.description -%}{{- _post.description }} | {% endif %}
 			{% if _post.author -%}{{- _post.author }} | {% endif %}
 			{{- _post.date | date_to_long_string -}}
 		{%- endcapture -%}
