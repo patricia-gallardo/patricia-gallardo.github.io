@@ -6,6 +6,12 @@ icon: fa-microphone
 order: 3
 ---
 
+## 2019
+
+[Ukas Koder Patricia Aas brenner for mangfold blant utviklere. Og sikkerhet i C++.](https://www.kode24.no/ukas-koder/som-kvinne-har-det-vaert-slitsomt-a-alltid-matte-bevise-at-jeg-kan-det-jeg-driver-med/71027719)
+
+[Tips For How Women Can Survive And Thrive In A Male-Dominated Tech Industry](https://www.forbes.com/sites/sheilacallaham/2019/03/14/tips-for-how-women-can-survive-and-thrive-in-a-male-dominated-tech-industry/)
+
 ## 2018
 
 ### All Things Git
