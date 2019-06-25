@@ -1,6 +1,6 @@
 ---
-title: Deconstructing Privilege
-description: Keynote at DevOpsDays Oslo 2018
+title: Deconstructing Privilege, Keynote
+description: DevOpsDays Oslo 2018
 author: Patricia Aas
 layout: post
 icon: fa-film
