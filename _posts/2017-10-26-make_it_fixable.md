@@ -1,6 +1,6 @@
 ---
-title: Sikkert NOK 2017
-description: Make It Fixable
+title: Make It Fixable
+description: Sikkert NOK 2017
 author: Patricia Aas
 layout: post
 icon: fa-film

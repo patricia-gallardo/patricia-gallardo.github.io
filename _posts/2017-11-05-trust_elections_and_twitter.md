@@ -1,6 +1,6 @@
 ---
-title: Fscons 2017
-description: Trust, Elections and Twitter
+title: Trust, Elections and Twitter
+description: Fscons 2017
 author: Patricia Aas
 layout: post
 icon: fa-film

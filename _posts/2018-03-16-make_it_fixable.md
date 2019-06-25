@@ -1,6 +1,6 @@
 ---
-title: NDC Copenhagen 2018
-description: Make It Fixable
+title: Make It Fixable
+description: NDC Copenhagen 2018
 author: Patricia Aas
 layout: post
 icon: fa-film
