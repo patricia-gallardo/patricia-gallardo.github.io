@@ -3,7 +3,7 @@ title: Talks
 subtitle: Talks I have made
 layout: "page"
 icon: fa-film
-order: 3
+order: 2
 ---
 
 ## 2019
