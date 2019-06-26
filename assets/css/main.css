@@ -412,9 +412,24 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
     background-color: #7eaeac
 }
 
+
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+.item_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    align-content: space-around;
+}
+
 .item {
     box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
     margin-bottom: 40px
+    flex-grow: 0; /* default 0 */
+    flex-shrink: 1; /* default 1 */
+    flex-basis: 30%; /* default auto */
+
 }
 
 .item header {
