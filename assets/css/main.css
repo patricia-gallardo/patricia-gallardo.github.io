@@ -46,7 +46,8 @@ body {
 
 .container {
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    width: 95%;
 }
 
 :root {
@@ -425,7 +426,7 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
 
 .item {
     box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
-    margin-bottom: 40px
+    margin-bottom: 40px;
     flex-grow: 0; /* default 0 */
     flex-shrink: 1; /* default 1 */
     flex-basis: 30%; /* default auto */
@@ -528,6 +529,11 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
 
     .container {
         width: 100%
+    }
+
+    .item {
+        margin-bottom: 15px;
+        flex-basis: 45%; /* default auto */
     }
 
     #header {
@@ -741,6 +747,11 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
         font-size: 17pt
     }
 
+    .item {
+        margin-bottom: 15px;
+        flex-basis: 30%; /* default auto */
+    }
+
     #header {
         width: 300px
     }
@@ -755,6 +766,12 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
 }
 
 @media screen and (min-width: 961px) and (max-width: 1620px) {
+
+    .item {
+        margin-bottom: 15px;
+        flex-basis: 45%; /* default auto */
+    }
+
     #main > section, #main article {
         padding: 3em 0
     }
@@ -782,7 +799,8 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
     }
 
     .item {
-        margin-bottom: 20px
+        margin-bottom: 20px;
+        flex-basis: 45%; /* default auto */
     }
 
     #header {
@@ -845,7 +863,8 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
     }
 
     .item {
-        margin-bottom: 15px
+        margin-bottom: 15px;
+        flex-basis: 45%; /* default auto */
     }
 
     ul.icons a {
@@ -1011,6 +1030,11 @@ input[type="button"]:active, input[type="submit"]:active, input[type="reset"]:ac
 
     .container {
         padding: 0 15px 0 15px
+    }
+
+    .item {
+        margin-bottom: 15px;
+        flex-basis: 45%; /* default auto */
     }
 
     ul.icons a {
