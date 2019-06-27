@@ -53,7 +53,7 @@ body {
 :root {
     --menu-fg-color: #ffffff;
     --menu-bg-color: #222729;
-    --body-fg-color: #444
+    --body-fg-color: #000;
 }
 
 body {
@@ -84,7 +84,7 @@ input, textarea, select {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
-    color: #666;
+    color: var(--body-fg-color);
     line-height: 1.5em
 }
 
@@ -120,7 +120,7 @@ footer {
 
 strong, b {
     font-weight: 300;
-    color: #666
+    color: var(--body-fg-color);
 }
 
 em, i {
@@ -196,7 +196,7 @@ p, ul, ol, dl, table {
 
 dl dt {
     font-weight: 300;
-    color: #666
+    color: var(--body-fg-color);
 }
 
 dl dd {
