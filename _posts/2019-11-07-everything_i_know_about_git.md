@@ -3,7 +3,7 @@ title: Everything I Know About Git
 description: Personal Notes
 author: Patricia Aas
 layout: post
-icon: fa-film
+icon: fa-pencil
 image: "/assets/images/grafitty-4500971_640.jpg"
 ---
 
