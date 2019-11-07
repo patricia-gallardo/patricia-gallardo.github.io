@@ -79,6 +79,8 @@ Ok, fine, I probably know more, and yes, you will probably disagree with some of
 ### Pick a specific commit into this branch
 `git cherry-pick <SHA>`
 
+[Useful link](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
+
 ## Fix state of tree
 ### Reset to some known SHA - but keep the changes in staging
 `git reset <SHA>`
