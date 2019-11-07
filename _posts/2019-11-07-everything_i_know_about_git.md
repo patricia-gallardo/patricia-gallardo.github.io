@@ -24,6 +24,12 @@ Ok, fine, I probably know more, and yes, you will probably disagree with some of
 `git log`
 ### Status of the current tree
 `git status`
+### See diffs
+`git diff <filename>`
+
+`git diff`
+
+`gitk`
 
 ## Basics
 ### Get changes from remote
@@ -60,6 +66,9 @@ Ok, fine, I probably know more, and yes, you will probably disagree with some of
 ## Commit massaging
 ### Commit this into the previous (unpushed) commit (other usecase: fix commit message)
 `git commit --amend`
+
+### Create auto squashed commits (needs rebase -i later)
+`git commit --fixup <SHA>`
 
 ### Pick bits of changes to a file
 `git add -p <filename>`
