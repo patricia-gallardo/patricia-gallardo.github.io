@@ -65,7 +65,7 @@ Ok, fine, I probably know more, and yes, you will probably disagree with some of
 `git add -p <filename>`
 
 ### Reorder or squash commits
-`git rebase -i HEAD~3`
+`git rebase -i HEAD~<number of commits>`
 
 ### Pick a specific commit into this branch
 `git cherry-pick <SHA>`
