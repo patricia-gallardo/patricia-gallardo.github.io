@@ -88,6 +88,14 @@ Ok, fine, I probably know more, and yes, you will probably disagree with some of
 ### Remove everything that happened after this
 `git reset --hard <SHA>`
 
+## Make my forks master follow remotes master
+### Add the remote
+`git remote add <made_up_name> git@github.com:<user>/<repo>.git`
+### Fetch the remote
+`git fetch <made_up_name>`
+### Make master track remotes master
+`git branch -u <made_up_name>/master master`
+
 ## Misc
 ### Get state of remote without changing the state of my tree
 `git fetch`
