@@ -1,6 +1,6 @@
 ---
 title: Inline Thinking
-description: Personal Notes
+description: 97 Things Every Java Programmer Should Know
 author: Patricia Aas
 layout: post
 icon: fa-pencil
