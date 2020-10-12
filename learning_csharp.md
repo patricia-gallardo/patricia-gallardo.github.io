@@ -14,4 +14,11 @@ order: 4
           <h4>NDC Oslo 2019</h4>
         </header>
       </div>
+      <div class="item">
+        <a href="/2020/02/05/thoughts_on_learning_a_new_programming_language.html" class="image fit"><img src="{{ 'assets/images/lost-place-4801970_640.jpg' | relative_url }}" alt="" /></a>
+        <header>
+          <h3>Thoughts On Learning A New Programming Language</h3>
+          <h4>OOP 2020</h4>
+        </header>
+      </div>
 </div>
