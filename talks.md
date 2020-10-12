@@ -6,7 +6,25 @@ icon: fa-film
 order: 2
 ---
 
+## 2020
+
+Meeting C++ Online: [Trying to build an Open Source browser in 2020](/2020/09/24/trying_to_build_an_open_source_browser_in_2020.html)
+
+NDC TechTown 2020: [Trying to build an Open Source browser in 2020](/2020/09/03/trying_to_build_an_open_source_browser_in_2020.html)
+
+European Testing Conference 2020: [Keynote: DevSecOps for Developers, How To Start](/2020/02/07/devsecops_for_developers_how_to_start.html)
+
+OOP 2020: [Thoughts On Learning A New Programming Language](/2020/02/05/thoughts_on_learning_a_new_programming_language.html)
+
 ## 2019
+
+EuroBSDcon 2019: [Keynote: Embedded Ethics](/2019/09/21/embedded_ethics.html)
+
+JavaZone 2019: [Survival Tips for Women in Tech](/2019/09/12/survival_tips_for_women_in_tech.html)
+
+NDC TechTown 2019: [Keynote: Elections: Trust and Critical Infrastructure](/2019/09/04/keynote_elections_trust_and_critical_infrastructure.html)
+
+NDC TechTown 2019: [The Anatomy of an Exploit](/2019/09/05/the_anatomy_of_an_exploit.html)
 
 NDC Oslo 2019 : [Trying to learn C#](/2019/06/21/trying_to_learn_c_sharp.html)
 
