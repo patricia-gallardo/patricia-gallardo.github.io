@@ -8,6 +8,13 @@ order: 4
 
 <div class="item_container">
       <div class="item">
+        <a href="/2019/09/21/embedded_ethics.html" class="image fit"><img src="{{ 'assets/images/berlin-2409784_640.jpg' | relative_url }}" alt="" /></a>
+        <header>
+          <h3>Keynote, Embedded Ethics</h3>
+          <h4>EuroBSDCon 2019</h4>
+        </header>
+      </div>
+      <div class="item">
         <a href="/2019/09/12/survival_tips_for_women_in_tech.html" class="image fit"><img src="{{ 'assets/images/human-3190531_640.jpg' | relative_url }}" alt="" /></a>
         <header>
           <h3>Survival Tips for Women in Tech</h3>
