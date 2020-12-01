@@ -36,5 +36,5 @@ Then bluntly copy everything in "$ENV{ProgramFiles\(x86\)}/Microsoft Visual Stud
 This is a hammer, but you should be able to work it out, Patricia. And maybe inprove on this text? ;)
 
 Based on 
-* https://devblogs.microsoft.com/cppblog/addresssanitizer-asan-for-windows-with-msvc/
-* https://www.kdab.com/cpp-projects-asan-windows/
+* [AddressSanitizer (ASan) for Windows with MSVC](https://devblogs.microsoft.com/cppblog/addresssanitizer-asan-for-windows-with-msvc/)
+* [How to Build C++ Projects with the Address Sanitizer on Windows](https://www.kdab.com/cpp-projects-asan-windows/)
