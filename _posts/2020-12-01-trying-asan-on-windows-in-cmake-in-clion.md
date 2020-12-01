@@ -33,7 +33,7 @@ target_link_options(pacman PRIVATE /wholearchive:clang_rt.asan_dynamic-x86_64.li
 ```
 Then bluntly copy everything in "$ENV{ProgramFiles\(x86\)}/Microsoft Visual Studio/2019/Community/VC/Tools/Llvm/x64/lib/clang/10.0.0/lib/windows" to cmake-build-debug/pacman/bin/
 
-This is a hammer, but you should be able to work it out, Patricia. And maybe inprove on this text? ;)
+This is a hammer, but you should be able to work it out, Patricia. And maybe improve on this text? ;)
 
 Based on 
 * [AddressSanitizer (ASan) for Windows with MSVC](https://devblogs.microsoft.com/cppblog/addresssanitizer-asan-for-windows-with-msvc/)
