@@ -4,7 +4,7 @@ description: Quick Notes
 author: Patricia Aas
 layout: post
 icon: fa-film
-image: "/assets/images/graffiti-4940293_640.jpg"
+image: "/assets/images/street-art-5227502_640.jpg"
 ---
 
 This post is mostly to future Patricia because she will be very annoyed with me if I don't write it. As usual she gets no nice fluffy text and so you don't either. Sorry.
