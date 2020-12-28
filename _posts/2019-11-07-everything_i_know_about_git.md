@@ -102,3 +102,6 @@ Ok, fine, I probably know more, and yes, you will probably disagree with some of
 
 ### Create a git repo
 `git init .`
+
+### Which .gitignore ignored this?
+`git check-ignore -v`
