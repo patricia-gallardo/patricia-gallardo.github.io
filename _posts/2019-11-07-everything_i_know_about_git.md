@@ -58,6 +58,10 @@ Ok, fine, I probably know more, and yes, you will probably disagree with some of
 
 `git push -u origin <branch name>`
 
+### Make a copy of a branch (useful for cleaning up and rebasing)
+
+`git checkout -b new_branch old_branch`
+
 ### Delete remote branch and tracking branch
 `git branch -d <branch name>`
 
