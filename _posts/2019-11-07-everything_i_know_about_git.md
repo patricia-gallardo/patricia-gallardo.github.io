@@ -67,7 +67,7 @@ Ok, fine, I probably know more, and yes, you will probably disagree with some of
 ### Commit this into the previous (unpushed) commit (other usecase: fix commit message)
 `git commit --amend`
 
-### Create auto squashed commits (needs rebase -i later)
+### Create auto squashed commits (needs "rebase -i --autosquash HEAD~NUM_COMMITS" later)
 `git commit --fixup <SHA>`
 
 ### Pick bits of changes to a file
