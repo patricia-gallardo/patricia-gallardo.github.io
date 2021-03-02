@@ -19,6 +19,9 @@ Ok, fine, I probably know more, and yes, you will probably disagree with some of
 ### Then make pull auto stash
 `git config --global rebase.autoStash true`
 
+### Set nano as default editor
+`git config --global core.editor nano`
+
 ## See state
 ### Commit log
 `git log`
@@ -71,8 +74,11 @@ Ok, fine, I probably know more, and yes, you will probably disagree with some of
 ### Commit this into the previous (unpushed) commit (other usecase: fix commit message)
 `git commit --amend`
 
-### Create auto squashed commits (needs "rebase -i --autosquash HEAD~NUM_COMMITS" later)
+### Create commits that can be auto squashed
 `git commit --fixup <SHA>`
+
+### Auto squash the commits
+`git rebase -i --autosquash HEAD~<NUM_COMMITS>`
 
 ### Pick bits of changes to a file
 `git add -p <filename>`
