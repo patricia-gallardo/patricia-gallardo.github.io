@@ -13,6 +13,8 @@ GPU access restricted to a single process requires an efficient framework for co
 
 Presented at [NDC TechTown 2018][1]
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v77wViQnfus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/61khbx38ukcRLG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PatriciaAas/isolating-gpu-access-in-its-own-process" title="Isolating GPU Access in its Own Process" target="_blank">Isolating GPU Access in its Own Process</a> </strong> from <strong><a href="https://www.slideshare.net/PatriciaAas" target="_blank">Patricia Aas</a></strong> </div>
 
 [1]: https://ndctechtown.com
