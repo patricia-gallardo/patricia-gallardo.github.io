@@ -22,6 +22,9 @@ Ok, fine, I probably know more, and yes, you will probably disagree with some of
 ### Set nano as default editor
 `git config --global core.editor nano`
 
+### Set main as default branch name
+`git config --global init.defaultBranch main`
+
 ### Make a global gitignore file
 Use for typical IDE / editor folders
 
