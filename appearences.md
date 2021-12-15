@@ -6,10 +6,47 @@ icon: fa-microphone
 order: 3
 ---
 
+## 2021
+
+### Think. Design. Work Smart. by Mozaic Works
+
+- [Modern C++, Security, Browser Development](https://youtu.be/csLe1IK7X5U)
+- [Patricia Aas on Learning Functional Programming First](https://youtu.be/pgxlmrUBnfE)
+
+### KDE Academy 2021
+[Akademy 2021 Interview: In Conversation with Patricia Aas](https://youtu.be/SstImBJHRHM)
+
+### Simply Business Tech in Conversation... with Patricia Aas
+
+- [Negotiating tools](https://youtu.be/7isItvwXRrI)
+- [Transparency](https://youtu.be/Y6z4JhXcjK8)
+- [Culture & Trust](https://youtu.be/wKJqtB9rXP8)
+- [The meaning of DevSecOps](https://youtu.be/V5LTpNquYTQ)
+- [Team cohesion](https://youtu.be/NPny48UcJbo)
+- [Top tips for public speaking](https://youtu.be/QYsbKvNmIlQ)
+- [Developer dashboards](https://youtu.be/cvQ6MKxmtJw)
+- [The future of DevSecOps roles](https://youtu.be/olBXLGRZRbw)
+- [Event Driven Architecture](https://youtu.be/p-Xo2N36IAM)
+- [DevSecOps metrics](https://youtu.be/LBSpiRQCcWE)
+- [The best tool sets](https://youtu.be/2_evs1OMWuQ)
+- [Problem solving](https://youtu.be/KjjOwVOpieI)
+
+## 2020
+
+### CppCast Episode 279: *TurtleBrowser with Patricia Aas*
+Interviewed by [Rob Irving](https://twitter.com/robwirving) and [Jason Turner](https://twitter.com/lefticus) on [CppCast](https://cppcast.com/turtle-browser-patricia-aas/) in December 2020.
+* [CppCast Episode 279: TurtleBrowser with Patricia Aas (Video)](https://youtu.be/Xw7PAhT7FPc)
+
 ## 2019
 
+### CppCast Episode 219: *Election Security with Patricia Aas*
+Interviewed by [Rob Irving](https://twitter.com/robwirving) and [Jason Turner](https://twitter.com/lefticus) on [CppCast](https://cppcast.com/patricia-aas-election-security/) in October 2019. 
+* [CppCast Episode 219: Election Security with Patricia Aas (Video)](https://youtu.be/38v7JUDuQ7A)
+
+### Kode24
 [Ukas Koder Patricia Aas brenner for mangfold blant utviklere. Og sikkerhet i C++.](https://www.kode24.no/ukas-koder/som-kvinne-har-det-vaert-slitsomt-a-alltid-matte-bevise-at-jeg-kan-det-jeg-driver-med/71027719)
 
+### Forbes
 [Tips For How Women Can Survive And Thrive In A Male-Dominated Tech Industry](https://www.forbes.com/sites/sheilacallaham/2019/03/14/tips-for-how-women-can-survive-and-thrive-in-a-male-dominated-tech-industry/)
 
 ## 2018
@@ -35,9 +72,10 @@ Interview in Digi (Norwegian online newspaper) [– Koding var alt jeg likte med
 
 ## 2017
 
-### CppCast
+### CppCast Episode 120: *Java with Patricia Aas*
 Interviewed by [Rob Irving](https://twitter.com/robwirving) and [Jason Turner](https://twitter.com/lefticus) on [CppCast](http://cppcast.com/2017/09/patricia-aas/) in September 2017.
 <iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/61449/51640971" width="220" height="150" frameborder="0" scrolling="no"></iframe>
+* [CppCast Episode 120: Java with Patricia Aas](https://youtu.be/stxB-BZSUYo)
 
 ### Channel9
 Interviewed by [Seth Juarez](https://twitter.com/sethjuarez) on [Channel9](https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/C9L15) during NDC Oslo in June 2017
