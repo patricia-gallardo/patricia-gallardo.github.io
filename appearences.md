@@ -33,6 +33,9 @@ order: 3
 
 ## 2020
 
+### Kode 24
+[Episode 59: Alt om C++, med Patricia Aas 👩‍🔬](https://podcast.kode24.no/episodes/59-alt-om-c-med-patricia-aas)
+
 ### CppCast Episode 279: *TurtleBrowser with Patricia Aas*
 Interviewed by [Rob Irving](https://twitter.com/robwirving) and [Jason Turner](https://twitter.com/lefticus) on [CppCast](https://cppcast.com/turtle-browser-patricia-aas/) in December 2020.
 * [CppCast Episode 279: TurtleBrowser with Patricia Aas (Video)](https://youtu.be/Xw7PAhT7FPc)
