@@ -31,6 +31,9 @@ order: 3
 - [The best tool sets](https://youtu.be/2_evs1OMWuQ)
 - [Problem solving](https://youtu.be/KjjOwVOpieI)
 
+### distributedfutu.re
+[New Browser, Who dis ?](https://distributedfutu.re/#episode68)
+
 ## 2020
 
 ### Kode 24
@@ -45,6 +48,9 @@ Interviewed by [Rob Irving](https://twitter.com/robwirving) and [Jason Turner](h
 ### CppCast Episode 219: *Election Security with Patricia Aas*
 Interviewed by [Rob Irving](https://twitter.com/robwirving) and [Jason Turner](https://twitter.com/lefticus) on [CppCast](https://cppcast.com/patricia-aas-election-security/) in October 2019. 
 * [CppCast Episode 219: Election Security with Patricia Aas (Video)](https://youtu.be/38v7JUDuQ7A)
+
+### Maintainable
+[Patricia Aas: Intersection of Programming & Security](https://open.spotify.com/episode/0HwEDJdCdH1xgfEEKsv4bn)
 
 ### Kode24
 [Ukas Koder Patricia Aas brenner for mangfold blant utviklere. Og sikkerhet i C++.](https://www.kode24.no/ukas-koder/som-kvinne-har-det-vaert-slitsomt-a-alltid-matte-bevise-at-jeg-kan-det-jeg-driver-med/71027719)
