@@ -87,5 +87,5 @@ Interviewed by [Rob Irving](https://twitter.com/robwirving) and [Jason Turner](h
 * [CppCast Episode 120: Java with Patricia Aas](https://youtu.be/stxB-BZSUYo)
 
 ### Channel9
-Interviewed by [Seth Juarez](https://twitter.com/sethjuarez) on [Channel9](https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/C9L15) during NDC Oslo in June 2017
-<iframe src="https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/C9L15/player" width="960" height="540" allowFullScreen frameBorder="0"></iframe>
+Interviewed by [Seth Juarez](https://twitter.com/sethjuarez) on Channel9 during NDC Oslo in June 2017
+(Video is gone)
