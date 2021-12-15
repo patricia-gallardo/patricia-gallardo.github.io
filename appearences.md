@@ -1,6 +1,6 @@
 ---
 title: Appearances
-subtitle: Interviews for podcasts and video channels
+subtitle: Interviews for websites, podcasts and video channels
 layout: "page"
 icon: fa-microphone
 order: 3
