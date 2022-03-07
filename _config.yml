@@ -55,6 +55,12 @@ twitter_url: https://twitter.com/pati_gallardo
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
 # The following settings are NECESSARY for the Prologue theme to run:
 # theme: jekyll-theme-prologue
 collections: [sections]
