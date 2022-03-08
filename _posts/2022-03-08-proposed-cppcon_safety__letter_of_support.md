@@ -52,6 +52,7 @@ Burkhard Stubert <br>
 Chip Collier <br>
 Thomas Gahr <br>
 Miro Knejp <br>
+Arne Mertz <br>
 
 
 Ways to sign this letter:
