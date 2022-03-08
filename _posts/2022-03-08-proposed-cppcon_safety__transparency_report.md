@@ -7,7 +7,7 @@ icon: fa-film
 image: "/assets/images/cppcon_transparency_report.png"
 ---
 
-[Include <C++> Position on CppCon Safety][1]
+[Proposed - Include <C++> Position on CppCon Safety][1]
 
 ## Content Warning
 

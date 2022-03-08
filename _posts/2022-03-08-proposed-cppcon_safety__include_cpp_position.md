@@ -6,7 +6,7 @@ layout: post
 icon: fa-film
 image: "/assets/images/cppcon_include_statement.png"
 ---
-[Transparency Report on CppCon Safety][1]
+[Proposed - Transparency Report on CppCon Safety][1]
 
 ## Content Warning
 
