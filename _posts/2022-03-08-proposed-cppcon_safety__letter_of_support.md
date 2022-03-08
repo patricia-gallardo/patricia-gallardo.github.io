@@ -74,6 +74,7 @@ Robin Widegren <br>
 Jean-Michel Carter <br>
 Eirik Øverby <br>
 Riley Levy <br>
+Richard Fabian <br>
 
 
 Ways to sign this letter:
