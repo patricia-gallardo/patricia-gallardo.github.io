@@ -71,6 +71,7 @@ Ran Regev <br>
 Mohsen Mirkarimi <br>
 Gwenael Tranvouez <br>
 Robin Widegren <br>
+Jean-Michel Carter <br>
 
 
 Ways to sign this letter:
