@@ -56,6 +56,9 @@ Arne Mertz <br>
 Eirik Gärtner <br>
 Pejman Ghorbanzade <br>
 sbi <br>
+Martin Ertsås <br>
+Matt Calabrese <br>
+
 
 Ways to sign this letter:
 1. A PR on the repo - path to file: [_posts/2022-03-08-proposed-cppcon_safety__letter_of_support.md][4]
