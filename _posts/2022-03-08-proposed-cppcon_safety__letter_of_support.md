@@ -32,6 +32,7 @@ Greg A. Jandl <br>
 Konstantin Kostov <br>
 Anushree Khanna <br>
 JeanHeyd Meneide <br>
+Connor MacDonald <br>
 
 Ways to sign this letter:
 1. A PR on the repo - path to file: [_posts/2022-03-08-proposed-cppcon_safety__letter_of_support.md][4]
