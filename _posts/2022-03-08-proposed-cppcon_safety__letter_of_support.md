@@ -84,6 +84,7 @@ Rasmus Bons <br>
 Carl Schwan <br>
 Henrik Grindal Bakken <br>
 Charlotte Morrison <br>
+Alecto Irene Perez <br>
 
 
 Ways to sign this letter:
