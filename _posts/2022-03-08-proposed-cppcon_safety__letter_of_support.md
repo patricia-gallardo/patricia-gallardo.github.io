@@ -7,8 +7,8 @@ icon: fa-film
 image: "/assets/images/cppcon_letter_of_support.png"
 ---
 
-The signatories of this letter have reviewed the [Include <C++> Transparency Report on CppCon Safety][1], and support the
-steps taken by [#include <C++>][8] outlined in their [Include <C++> Position on CppCon Safety][2] and the requirements they
+The signatories of this letter have reviewed the [Proposed Include <C++> Transparency Report on CppCon Safety][1], and support the
+steps taken by [#include <C++>][8] outlined in their [Proposed Include <C++> Position on CppCon Safety][2] and the requirements they
 outline in the section [What Needs to Change][3] therein.
 
 We do this with the sincere hopes that a conference we have enjoyed, and an organization we have trusted for many years,
@@ -61,6 +61,7 @@ Matt Calabrese <br>
 Erin Melucci <br>
 Billy O'Neal <br>
 Manuel Bergler <br>
+Joel Falcou <br>
 
 
 Ways to sign this letter:
