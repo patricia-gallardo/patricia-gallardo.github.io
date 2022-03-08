@@ -8,7 +8,7 @@ image: "/assets/images/cppcon_letter_of_support.png"
 ---
 
 The signatories of this letter have reviewed the [Include <C++> Transparency Report on CppCon Safety][1], and support the
-steps taken by #include <C++> outlined in their [Include <C++> Position on CppCon Safety][2] and the requirements they
+steps taken by [#include <C++>][8] outlined in their [Include <C++> Position on CppCon Safety][2] and the requirements they
 outline in the section [What Needs to Change][3] therein.
 
 We do this with the sincere hopes that a conference we have enjoyed, and an organization we have trusted for many years,
@@ -31,3 +31,4 @@ Ways to sign this letter:
 [5]: https://github.com/patricia-gallardo/patricia-gallardo.github.io
 [6]: https://www.includecpp.org/discord/
 [7]: https://twitter.com/pati_gallardo
+[8]: https://www.includecpp.org/
