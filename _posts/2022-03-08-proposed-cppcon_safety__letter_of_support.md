@@ -21,6 +21,7 @@ John Murray <br>
 Ahmad Beirkdar <br>
 Christer A. Jenson <br>
 Léo Masson <br>
+Ólafur Waage <br>
 Thomas Peters <br>
 
 Ways to sign this letter:
