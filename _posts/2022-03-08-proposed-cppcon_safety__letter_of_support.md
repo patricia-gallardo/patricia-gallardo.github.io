@@ -71,8 +71,8 @@ Ran Regev <br>
 Mohsen Mirkarimi <br>
 Gwenael Tranvouez <br>
 Robin Widegren <br>
+Jean-Michel Carter <br>
 Eirik Øverby <br>
-
 
 
 Ways to sign this letter:
