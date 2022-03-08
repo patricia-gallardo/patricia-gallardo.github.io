@@ -35,6 +35,7 @@ JeanHeyd Meneide <br>
 Connor MacDonald <br>
 Fabio Fracassi <br>
 Lesley Lai <br>
+Gašper Ažman <br>
 Hannes Harnisch <br>
 Bronek Kozicki <br>
 Christopher Di Bella <br>
