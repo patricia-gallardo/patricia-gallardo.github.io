@@ -127,7 +127,7 @@ only restriction was that they would not be allowed to resume their former organ
   conferences. Herb Sutter says he will answer that at the planned meeting between the board and the #include <C++>
   representatives.
 * *2021-11-22 13:15 EST:* The Standard C++ Foundation board meets with Patricia Aas, Kate Gregory, and Bryce Adelstein
-  Lelbach. The board begins the meeting by presenting their written statement [TODO], and say that they will not answer
+  Lelbach. The board begins the meeting by presenting their written statement, and say that they will not answer
   any questions. The board explicitly, on direct questioning, refused to answer whether X will be allowed to speak at
   future conferences. The rest of the 1.5 hour meeting consists mostly of the #include <C++> representatives answering
   the board's questions. The #include <C++> representatives explain their position and inform the board that they will
