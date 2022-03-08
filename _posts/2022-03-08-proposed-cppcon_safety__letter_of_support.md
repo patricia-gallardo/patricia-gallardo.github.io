@@ -78,6 +78,7 @@ Richard Fabian <br>
 John McFarlane <br>
 Paweł Skalczyński <br>
 Rich Felker <br>
+Titus Winters <br>
 
 
 Ways to sign this letter:
