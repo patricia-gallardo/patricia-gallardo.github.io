@@ -33,6 +33,7 @@ Konstantin Kostov <br>
 Anushree Khanna <br>
 JeanHeyd Meneide <br>
 Connor MacDonald <br>
+Fabio Fracassi <br>
 Lesley Lai <br>
 Hannes Harnisch <br>
 Bronek Kozicki <br>
