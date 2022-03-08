@@ -62,6 +62,9 @@ Erin Melucci <br>
 Billy O'Neal <br>
 Manuel Bergler <br>
 Joel Falcou <br>
+Christian Skogen <br>
+Thomas Austad <br>
+Michał Dominiak <br>
 
 
 Ways to sign this letter:
