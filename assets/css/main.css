@@ -54,6 +54,7 @@ body {
     --menu-fg-color: #ffffff;
     --menu-bg-color: #222729;
     --body-fg-color: #000;
+    --link-hover-color: #0000ffff
 }
 
 body {
@@ -138,7 +139,7 @@ a {
 }
 
 a:hover {
-    color: var(--menu-fg-color);
+    color: var(--link-hover-color);
     border-bottom-color: rgba(255, 255, 255, 0)
 }
 
