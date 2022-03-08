@@ -4,7 +4,7 @@ description: CppCon
 author: Patricia Aas
 layout: post
 icon: fa-film
-image: "/assets/images/human-3190531_640.jpg"
+image: "/assets/images/cppcon_letter_of_support.png"
 ---
 
 The signatories of this letter have reviewed the [Include <C++> Transparency Report on CppCon Safety][1], and support the

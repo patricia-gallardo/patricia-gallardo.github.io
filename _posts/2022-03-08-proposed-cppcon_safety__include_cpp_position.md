@@ -4,7 +4,7 @@ description: CppCon
 author: Patricia Aas
 layout: post
 icon: fa-film
-image: "/assets/images/human-3190531_640.jpg"
+image: "/assets/images/cppcon_include_statement.png"
 ---
 [Transparency Report on CppCon Safety][1]
 
