@@ -34,6 +34,7 @@ Anushree Khanna <br>
 JeanHeyd Meneide <br>
 Connor MacDonald <br>
 Lesley Lai <br>
+Hannes Harnisch <br>
 Bronek Kozicki <br>
 Christopher Di Bella <br>
 
