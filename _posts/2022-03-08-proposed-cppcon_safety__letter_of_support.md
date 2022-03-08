@@ -22,6 +22,7 @@ Ahmad Beirkdar <br>
 Christer A. Jenson <br>
 Léo Masson <br>
 Ólafur Waage <br>
+Peter Sommerlad <br>
 Thomas Peters <br>
 
 Ways to sign this letter:
