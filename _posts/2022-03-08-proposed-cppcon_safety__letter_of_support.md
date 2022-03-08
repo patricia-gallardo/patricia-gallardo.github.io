@@ -70,6 +70,7 @@ Johan Herland <br>
 Ran Regev <br>
 Mohsen Mirkarimi <br>
 Gwenael Tranvouez <br>
+Robin Widegren <br>
 
 
 Ways to sign this letter:
