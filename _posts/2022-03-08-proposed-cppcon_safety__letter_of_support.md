@@ -66,6 +66,7 @@ Christian Skogen <br>
 Thomas Austad <br>
 Michał Dominiak <br>
 Nevin Liber <br>
+Ran Regev <br>
 
 
 Ways to sign this letter:
