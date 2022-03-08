@@ -28,6 +28,9 @@ Thomas Peters <br>
 James Widman <br>
 Corentin Jabot <br>
 Brian Cornille <br>
+Konstantin Kostov <br>
+Anushree Khanna <br>
+JeanHeyd Meneide <br>
 Connor MacDonald <br>
 
 Ways to sign this letter:
