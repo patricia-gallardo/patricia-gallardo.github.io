@@ -60,6 +60,7 @@ Martin Ertsås <br>
 Matt Calabrese <br>
 Erin Melucci <br>
 Billy O'Neal <br>
+Manuel Bergler <br>
 Joel Falcou <br>
 
 
