@@ -75,6 +75,7 @@ Jean-Michel Carter <br>
 Eirik Øverby <br>
 Riley Levy <br>
 Richard Fabian <br>
+John McFarlane <br>
 
 
 Ways to sign this letter:
