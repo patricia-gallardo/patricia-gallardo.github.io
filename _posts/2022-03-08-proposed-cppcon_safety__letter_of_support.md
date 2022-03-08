@@ -19,6 +19,7 @@ Signed
 Patricia Aas <br>
 John Murray <br>
 Christer A. Jenson <br>
+Léo Masson <br>
 
 
 Ways to sign this letter:
