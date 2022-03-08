@@ -76,6 +76,7 @@ Eirik Øverby <br>
 Riley Levy <br>
 Richard Fabian <br>
 John McFarlane <br>
+Paweł Skalczyński <br>
 
 
 Ways to sign this letter:
