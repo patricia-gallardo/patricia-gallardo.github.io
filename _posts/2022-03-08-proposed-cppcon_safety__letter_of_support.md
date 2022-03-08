@@ -77,6 +77,7 @@ Riley Levy <br>
 Richard Fabian <br>
 John McFarlane <br>
 Paweł Skalczyński <br>
+Rich Felker <br>
 
 
 Ways to sign this letter:
