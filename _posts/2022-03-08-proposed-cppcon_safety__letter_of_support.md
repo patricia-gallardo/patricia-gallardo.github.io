@@ -28,6 +28,7 @@ Thomas Peters <br>
 James Widman <br>
 Corentin Jabot <br>
 Brian Cornille <br>
+Greg A. Jandl <br>
 Konstantin Kostov <br>
 Anushree Khanna <br>
 JeanHeyd Meneide <br>
