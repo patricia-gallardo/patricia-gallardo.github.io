@@ -16,8 +16,18 @@ can take the steps needed to regain that trust.
 
 Signed
 
-Patricia Aas, Speaker, Trainer and admin for #include <C++>
+Patricia Aas, Speaker, Trainer and admin for #include <C++> <br>
+
+Ways to sign this letter:
+1. A PR on the repo - path to file: [_posts/2022-03-08-proposed-cppcon_safety__letter_of_support.md][4]
+2. Make an issue on the [patricia.no repo][5]
+3. Contact [@pati_gallardo][7] on Twitter DM or DM on the [#include <C++> discord][6]
+4. Send an email to patricia@turtlesec.no
 
 [1]: /2022/03/08/proposed-cppcon_safety__transparency_report.html
 [2]: /2022/03/08/proposed-cppcon_safety__include_cpp_position.html
 [3]: /2022/03/08/proposed-cppcon_safety__include_cpp_position.html#what-needs-to-change
+[4]: https://github.com/patricia-gallardo/patricia-gallardo.github.io/tree/master/_posts/2022-03-08-proposed-cppcon_safety__letter_of_support.md
+[5]: https://github.com/patricia-gallardo/patricia-gallardo.github.io
+[6]: https://www.includecpp.org/discord/
+[7]: https://twitter.com/pati_gallardo
