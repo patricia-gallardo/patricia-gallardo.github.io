@@ -67,6 +67,7 @@ Thomas Austad <br>
 Michał Dominiak <br>
 Nevin Liber <br>
 Johan Herland <br>
+Ran Regev <br>
 
 
 Ways to sign this letter:
