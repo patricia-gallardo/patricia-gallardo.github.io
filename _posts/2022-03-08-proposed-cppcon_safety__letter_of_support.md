@@ -49,6 +49,7 @@ Jens Weller <br>
 Nicole Mazzuca <br>
 Rob Irving <br>
 Burkhard Stubert <br>
+Chip Collier <br>
 Miro Knejp <br>
 
 Ways to sign this letter:
