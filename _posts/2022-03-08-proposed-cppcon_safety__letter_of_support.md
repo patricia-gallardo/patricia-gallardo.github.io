@@ -17,6 +17,7 @@ can take the steps needed to regain that trust.
 Signed
 
 Patricia Aas <br>
+Bryce Adelstein Lelbach <br>
 John Murray <br>
 Ahmad Beirkdar <br>
 Christer A. Jenson <br>
