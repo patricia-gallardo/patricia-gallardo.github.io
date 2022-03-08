@@ -69,6 +69,7 @@ Nevin Liber <br>
 Johan Herland <br>
 Ran Regev <br>
 Mohsen Mirkarimi <br>
+Gwenael Tranvouez <br>
 
 
 Ways to sign this letter:
