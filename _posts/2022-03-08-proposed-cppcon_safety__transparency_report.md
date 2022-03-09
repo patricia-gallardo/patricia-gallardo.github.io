@@ -134,7 +134,8 @@ only restriction was that they would not be allowed to resume their former organ
   propose that #include <C++> break ties with CppCon and go public with this information. Bryce Adelstein Lelbach
   informs the board that he is resigning as CppCon Program Chair.
 * *2021-11-22 16:00 EST:* The #include <C++> representatives are told that X's registration and hotel room were paid for
-  by the conference, even though they were not a speaker this year.
+  by the conference, even though they were not a speaker this year. X was also sent a speakers gift basket after the 
+  conference.
 * *2022-03-08:* #include <C++> publishes this transparency report along with their statement on CppCon safety.
 
 ## Footnotes
