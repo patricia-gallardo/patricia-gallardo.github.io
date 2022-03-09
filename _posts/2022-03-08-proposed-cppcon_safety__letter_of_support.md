@@ -110,7 +110,9 @@ Zoran Jovanovic <br>
 Daniel-Nikpayuk <br>
 Chris Blume <br>
 Céline Dedaj <br>
+Jean-Simon Lapointe <br>
 Martin Hořeňovský <br>
+
 
 Ways to sign this letter:
 1. A PR on the repo - path to file: [_posts/2022-03-08-proposed-cppcon_safety__letter_of_support.md][4]
