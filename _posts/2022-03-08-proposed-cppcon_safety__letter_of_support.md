@@ -110,6 +110,7 @@ Zoran Jovanovic <br>
 Daniel-Nikpayuk <br>
 Chris Blume <br>
 Céline Dedaj <br>
+Jean-Simon Lapointe <br>
 
 
 Ways to sign this letter:
