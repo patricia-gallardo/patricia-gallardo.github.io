@@ -85,6 +85,7 @@ Carl Schwan <br>
 Henrik Grindal Bakken <br>
 Charlotte Morrison <br>
 Alecto Irene Perez <br>
+Juan Miguel Huertas Delgado <br>
 
 
 Ways to sign this letter:
