@@ -108,6 +108,7 @@ Luca Bellinzaghi <br>
 Peter Bindels <br>
 Zoran Jovanovic <br>
 Daniel-Nikpayuk <br>
+Chris Blume <br>
 
 
 Ways to sign this letter:
