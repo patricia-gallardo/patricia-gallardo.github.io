@@ -102,6 +102,7 @@ Joanna Blackhart <br>
 Marit van Dijk <br>
 Kirk Shoop <br>
 Richard Buckley <br>
+Hugh Macdonald <br>
 
 
 Ways to sign this letter:
