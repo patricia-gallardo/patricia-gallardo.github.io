@@ -111,6 +111,7 @@ Daniel-Nikpayuk <br>
 Chris Blume <br>
 Céline Dedaj <br>
 Jean-Simon Lapointe <br>
+Martin Hořeňovský <br>
 
 
 Ways to sign this letter:
