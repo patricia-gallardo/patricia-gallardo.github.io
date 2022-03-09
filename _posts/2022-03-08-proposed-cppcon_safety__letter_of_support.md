@@ -127,6 +127,7 @@ Neil Hayes <br>
 Zachary Henkel <br>
 Asher Mancinelli <br>
 Henrik Austad <br>
+Nikolai Wuttke-Hohendorf <br>
 
 
 Ways to sign this letter:
