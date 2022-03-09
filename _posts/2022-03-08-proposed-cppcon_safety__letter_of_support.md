@@ -98,6 +98,8 @@ Andy Soffer <br>
 Anton Hibl <br>
 Yacob (Kobi) Cohen-Arazi <br>
 Mohammad Ali Khan <br>
+Joanna Blackhart <br>
+Marit van Dijk <br>
 
 
 Ways to sign this letter:
