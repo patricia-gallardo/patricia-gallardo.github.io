@@ -128,6 +128,8 @@ Zachary Henkel <br>
 Asher Mancinelli <br>
 Henrik Austad <br>
 Tony Van Eerd <br>
+Karolin Varner <br>
+Nikolai Wuttke-Hohendorf <br>
 
 
 Ways to sign this letter:
