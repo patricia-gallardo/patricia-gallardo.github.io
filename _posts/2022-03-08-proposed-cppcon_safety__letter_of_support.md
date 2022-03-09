@@ -110,6 +110,7 @@ Zoran Jovanovic <br>
 Daniel-Nikpayuk <br>
 Chris Blume <br>
 Céline Dedaj <br>
+Noel Bush <br>
 Jean-Simon Lapointe <br>
 Martin Hořeňovský <br>
 
