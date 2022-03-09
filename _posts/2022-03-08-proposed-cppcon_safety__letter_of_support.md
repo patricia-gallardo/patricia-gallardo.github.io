@@ -116,6 +116,9 @@ Fatima Sarah Khalid <br>
 Noel Bush <br>
 Jean-Simon Lapointe <br>
 Martin Hořeňovský <br>
+René Eng <br>
+Honey Sukesan <br>
+Japroz Singh Saini <br>
 
 
 Ways to sign this letter:
