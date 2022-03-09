@@ -109,6 +109,7 @@ Peter Bindels <br>
 Zoran Jovanovic <br>
 Daniel-Nikpayuk <br>
 Chris Blume <br>
+Céline Dedaj <br>
 
 
 Ways to sign this letter:
