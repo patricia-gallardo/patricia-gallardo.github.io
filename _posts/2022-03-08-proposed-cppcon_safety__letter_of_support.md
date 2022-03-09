@@ -92,6 +92,7 @@ Chandler Carruth <br>
 Jennifer Yao<br>
 Ian McKellar<br>
 Salvador Sarpi <br>
+Andy Soffer <br>
 
 
 Ways to sign this letter:
