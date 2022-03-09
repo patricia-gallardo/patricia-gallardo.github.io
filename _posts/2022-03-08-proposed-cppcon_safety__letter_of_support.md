@@ -95,6 +95,8 @@ Salvador Sarpi <br>
 Blake Preston <br>
 Matthew Kulukundis <br>
 Andy Soffer <br>
+Anton Hibl <br>
+Yacob (Kobi) Cohen-Arazi <br>
 
 
 Ways to sign this letter:
