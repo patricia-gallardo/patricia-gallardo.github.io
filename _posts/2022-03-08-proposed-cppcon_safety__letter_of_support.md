@@ -100,6 +100,7 @@ Yacob (Kobi) Cohen-Arazi <br>
 Mohammad Ali Khan <br>
 Joanna Blackhart <br>
 Marit van Dijk <br>
+Kirk Shoop <br>
 
 
 Ways to sign this letter:
