@@ -110,6 +110,7 @@ Zoran Jovanovic <br>
 Daniel-Nikpayuk <br>
 Chris Blume <br>
 Céline Dedaj <br>
+Conor Hoekstra <br>
 Erich Keane <br>
 Fatima Sarah Khalid <br>
 Noel Bush <br>
