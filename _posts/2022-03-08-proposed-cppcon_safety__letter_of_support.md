@@ -143,6 +143,7 @@ Adrian Cowan <br>
 Katherine Flavel <br>
 Salim Pamukcu <br>
 Aaron Ballman <br>
+Nicolas Barrios <br>
 
 
 Ways to sign this letter:
