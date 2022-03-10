@@ -132,6 +132,9 @@ Karolin Varner <br>
 Nikolai Wuttke-Hohendorf <br>
 Marcin Mateusz Hanc <br>
 Eric Lemanissier <br>
+Marco Arena <br>
+Bart Janssens <br>
+Toby Allsopp <br>
 
 
 Ways to sign this letter:
