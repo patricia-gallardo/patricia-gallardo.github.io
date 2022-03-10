@@ -135,6 +135,9 @@ Eric Lemanissier <br>
 Marco Arena <br>
 Bart Janssens <br>
 Toby Allsopp <br>
+Lars Knoll <br>
+Tim Meadowcroft <br>
+R. Martinho Fernandes <br>
 
 
 Ways to sign this letter:
