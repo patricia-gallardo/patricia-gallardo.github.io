@@ -144,6 +144,9 @@ Katherine Flavel <br>
 Salim Pamukcu <br>
 Aaron Ballman <br>
 Marie Helene Kvello-Aune <br>
+Nicolas Barrios <br>
+Chiel Douwes <br>
+Ashley Hedberg <br>
 
 
 Ways to sign this letter:
