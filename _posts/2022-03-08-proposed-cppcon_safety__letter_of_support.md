@@ -131,6 +131,7 @@ Tony Van Eerd <br>
 Karolin Varner <br>
 Nikolai Wuttke-Hohendorf <br>
 Marcin Mateusz Hanc <br>
+Eric Lemanissier <br>
 
 
 Ways to sign this letter:
