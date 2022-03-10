@@ -147,6 +147,7 @@ Marie Helene Kvello-Aune <br>
 Nicolas Barrios <br>
 Chiel Douwes <br>
 Ashley Hedberg <br>
+Richard Ahlquist <br>
 
 
 Ways to sign this letter:
