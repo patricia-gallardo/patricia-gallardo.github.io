@@ -179,6 +179,8 @@ Kari Bach Henningsen <br>
 Matthias Moulin <br>
 Omer Yair <br>
 Dave Cochran <br>
+Veni Kunche <br>
+Eva Deane <br>
 
 
 Ways to sign this letter:
