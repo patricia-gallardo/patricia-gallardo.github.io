@@ -169,6 +169,7 @@ Espen Klem <br>
 Tristam Kyle MacDonald <br>
 Oliver Hookins <br>
 Haraldur Karlsson <br>
+Olivia Quinet <br>
 
 
 Ways to sign this letter:
