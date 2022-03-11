@@ -158,6 +158,8 @@ Arthur Brainville <br>
 Dean Michael Berris <br>
 Peter J. Kootsookos <br>
 Jayesh Badwaik <br>
+Allison Vacanti <br>
+Carsten Hansen <br>
 
 
 Ways to sign this letter:
