@@ -174,6 +174,8 @@ Olivia Quinet <br>
 Espen Dalløkken <br>
 Vasundhar <br>
 Michael Odden <br>
+Tina Ulbrich <br>
+Kari Bach Henningsen <br>
 
 
 Ways to sign this letter:
