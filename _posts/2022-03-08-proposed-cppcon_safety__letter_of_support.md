@@ -168,6 +168,7 @@ Ole Alexander Pihl Konstad <br>
 Espen Klem <br>
 Tristam Kyle MacDonald <br>
 Oliver Hookins <br>
+Haraldur Karlsson <br>
 
 
 Ways to sign this letter:
