@@ -166,6 +166,7 @@ Dag Fridtun <br>
 Jan Wilmans <br>
 Ole Alexander Pihl Konstad <br>
 Espen Klem <br>
+Tristam Kyle MacDonald <br>
 
 
 Ways to sign this letter:
