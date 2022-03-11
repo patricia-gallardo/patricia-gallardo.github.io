@@ -171,6 +171,9 @@ Tristam Kyle MacDonald <br>
 Oliver Hookins <br>
 Haraldur Karlsson <br>
 Olivia Quinet <br>
+Espen Dalløkken <br>
+Vasundhar <br>
+Michael Odden <br>
 
 
 Ways to sign this letter:
