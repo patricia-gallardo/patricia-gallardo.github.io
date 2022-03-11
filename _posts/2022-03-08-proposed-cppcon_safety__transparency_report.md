@@ -137,6 +137,13 @@ only restriction was that they would not be allowed to resume their former organ
   by the conference, even though they were not a speaker this year. X was also sent a speakers gift basket after the 
   conference.
 * *2022-03-08:* Patricia Aas publishes this proposed transparency report along with the proposed statement on CppCon safety.
+* *2022-03-09:* The C++ Foundation issues a [statement][2] and a new [safety policy][3]. In the statement they omit key details 
+  outlined in this report like the decision to lift all restrictions except the organizer role, they also omit that
+  CppCon paid for the hotel, that the President of the board introduced X at the event or that they sent X a speakers
+  gift basket. They do say that "The individual will not attend CppCon for as long as their presence would be broadly 
+  disruptive to the conference". No other timeline is given.
+* *2022-03-10:* X still has access to the CppCon Google Drive and has been actively involved in planning CppCon 2022
+  over the past week.
 
 ## Footnotes
 
@@ -167,3 +174,5 @@ Posted in #organization July 12th 2021 by Kate Gregory
 > \- the messages in organisation-offtopic will be removed for privacy reasons as explained above."
 
 [1]: /2022/03/08/proposed-cppcon_safety__include_cpp_position.html
+[2]: https://cppcon.org/announcing-cppcon-safety-policy/
+[3]: https://cppcon.org/safetypolicy/
