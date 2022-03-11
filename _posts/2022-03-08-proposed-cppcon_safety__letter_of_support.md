@@ -177,6 +177,7 @@ Michael Odden <br>
 Tina Ulbrich <br>
 Kari Bach Henningsen <br>
 Matthias Moulin <br>
+Omer Yair <br>
 
 
 Ways to sign this letter:
