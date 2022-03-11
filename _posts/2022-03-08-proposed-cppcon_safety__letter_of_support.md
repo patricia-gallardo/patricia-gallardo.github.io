@@ -153,6 +153,8 @@ Greg Falcon <br>
 Thor Henning Hetland <br>
 Jorge Rodríguez <br>
 Arthur Brainville <br>
+Dean Michael Berris <br>
+Peter J. Kootsookos <br>
 
 
 Ways to sign this letter:
