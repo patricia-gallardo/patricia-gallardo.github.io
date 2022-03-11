@@ -162,6 +162,7 @@ Allison Vacanti <br>
 Carsten Hansen <br>
 Eric Niebler <br>
 Thomas Steen <br>
+Dag Fridtun <br>
 
 
 Ways to sign this letter:
