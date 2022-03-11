@@ -153,6 +153,24 @@ Greg Falcon <br>
 Thor Henning Hetland <br>
 Jorge Rodríguez <br>
 Dave Abrahams <br>
+Günter Obiltschnig <br>
+Jeff Hammond <br>
+Arthur Brainville <br>
+Dean Michael Berris <br>
+Peter J. Kootsookos <br>
+Jayesh Badwaik <br>
+Allison Vacanti <br>
+Carsten Hansen <br>
+Eric Niebler <br>
+Thomas Steen <br>
+Dag Fridtun <br>
+Jan Wilmans <br>
+Ole Alexander Pihl Konstad <br>
+Espen Klem <br>
+Tristam Kyle MacDonald <br>
+Oliver Hookins <br>
+Haraldur Karlsson <br>
+Olivia Quinet <br>
 
 
 Ways to sign this letter:
