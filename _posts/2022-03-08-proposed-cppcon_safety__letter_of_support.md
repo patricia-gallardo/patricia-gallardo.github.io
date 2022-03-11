@@ -164,6 +164,7 @@ Eric Niebler <br>
 Thomas Steen <br>
 Dag Fridtun <br>
 Jan Wilmans <br>
+Ole Alexander Pihl Konstad <br>
 
 
 Ways to sign this letter:
