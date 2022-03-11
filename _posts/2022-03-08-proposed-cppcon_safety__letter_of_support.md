@@ -165,6 +165,7 @@ Thomas Steen <br>
 Dag Fridtun <br>
 Jan Wilmans <br>
 Ole Alexander Pihl Konstad <br>
+Tristam Kyle MacDonald <br>
 
 
 Ways to sign this letter:
