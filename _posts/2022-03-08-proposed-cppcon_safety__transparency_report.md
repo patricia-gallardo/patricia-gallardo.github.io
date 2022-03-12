@@ -108,8 +108,10 @@ only restriction was that they would not be allowed to resume their former organ
   with Fred Tingaud, Kate Gregory, Sy Brand, Guy Davidson, and Bryce Adelstein Lelbach, where she proposes that
   \#include <C++> should break ties with CppCon and inform the community of this situation.
 * *2021-11-17 13:30 EST:* Bryce Adelstein Lelbach meets with Herb Sutter to explain his disagreement with the board
-  decision and his intention to resign. He informs Herb that #include <C++> organizers are aware of this and are
-  considering breaking ties with CppCon.
+  decision and his intention to resign. He informs Herb that members of #include <C++> are aware of this and are
+  considering breaking ties with CppCon. (edit 2022.03.12 changed "#include <C++> organizers" to "members of #include 
+  <C++>" - reason "organizers" is a specific much bigger group in #include <C++> than the ones who were involved at 
+  this time.)
 * *2021-11-18:* A member of the board meets with Patricia Aas, and joins the #include <C++> group DM. The board member
   states that they believe that individual X will not be allowed to speak at future conferences, contrary to what Bryce
   Adelstein Lelbach was told by Herb Sutter on 2021-11-11.
