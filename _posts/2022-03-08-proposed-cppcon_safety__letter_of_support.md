@@ -204,6 +204,7 @@ Inge Fredriksen <br>
 Brian Kidney <br>
 Aleksander Nordgarden-Rødner <br>
 Arjan Kleene <br>
+Chris Palmer <br>
 
 
 Ways to sign this letter:
