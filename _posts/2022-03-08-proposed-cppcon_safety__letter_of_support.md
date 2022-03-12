@@ -195,6 +195,7 @@ Daniela Engert <br>
 Andrei Zissu <br>
 Moritz Bunkus<br>
 Jay Jackson <br>
+Alex Huszagh <br>
 
 
 Ways to sign this letter:
