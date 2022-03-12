@@ -199,6 +199,7 @@ Ben Vining <br>
 Alex Huszagh <br>
 Faraz Vahedi <br>
 Timothy Brackett <br>
+Arve Bersvendsen <br>
 
 
 Ways to sign this letter:
