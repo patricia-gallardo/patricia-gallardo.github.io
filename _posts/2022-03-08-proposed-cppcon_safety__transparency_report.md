@@ -79,7 +79,7 @@ only restriction was that they would not be allowed to resume their former organ
   Foundation Board, and Jon Kalb were already aware of X's record. Herb sends Bryce the "CppCon felon policy", which was
   approved by the Standard C++ Foundation board but has not been made publicly available.
 * *2021-09-?? (unknown):* The Standard C++ Foundation board meets to discuss X's participation in CppCon.
-* *2021-09-22:* Herb Sutter "accepts" the resignation of a Standard C++ Foundation board member who raised objections to
+* *2021-09-22:* Herb Sutter "accepts" the resignation of a Standard C++ Foundation board member, [Chandler Carruth][4], who raised objections to
   the process and decisions of the board. The board member had tendered their resignation in 2020-10, but had been
   persuaded to stay on for the following year. This resulted in the board member leaving the board with immediate
   effect.
@@ -138,7 +138,7 @@ only restriction was that they would not be allowed to resume their former organ
 * *2021-11-22 16:00 EST:* The #include <C++> representatives are told that X's registration and hotel room were paid for
   by the conference, even though they were not a speaker this year. X was also sent a speakers gift basket after the 
   conference.
-* *2022-03-08:* Patricia Aas publishes this proposed transparency report along with the proposed statement on CppCon safety.
+* *2022-03-08:* [Patricia Aas publishes][5] this proposed transparency report along with the proposed statement on CppCon safety.
 * *2022-03-09:* The C++ Foundation issues a [statement][2] and a new [safety policy][3]. In the statement they omit key details 
   outlined in this report like the decision to lift all restrictions except the organizer role, they also omit that
   CppCon paid for the hotel, that the President of the board introduced X at the event or that they sent X a speakers
@@ -146,6 +146,8 @@ only restriction was that they would not be allowed to resume their former organ
   disruptive to the conference". No other timeline is given.
 * *2022-03-10:* X still has access to the CppCon Google Drive and has been actively involved in planning CppCon 2022
   over the past week.
+* *2022-03-12:* Chandler Carruth, the previously unnamed board member that was made to leave the board, writes a [Twitter
+  thread][4] about his experience.
 
 ## Footnotes
 
@@ -178,3 +180,5 @@ Posted in #organization July 12th 2021 by Kate Gregory
 [1]: /2022/03/08/proposed-cppcon_safety__include_cpp_position.html
 [2]: https://cppcon.org/announcing-cppcon-safety-policy/
 [3]: https://cppcon.org/safetypolicy/
+[4]: https://twitter.com/chandlerc1024/status/1502521340787527680?s=20&t=cyBZCqREOeO_HCQX-4EOWw
+[5]: https://twitter.com/pati_gallardo/status/1501211140310904841?s=20&t=cyBZCqREOeO_HCQX-4EOWw
