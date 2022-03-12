@@ -201,6 +201,7 @@ Faraz Vahedi <br>
 Timothy Brackett <br>
 Arve Bersvendsen <br>
 Inge Fredriksen <br>
+Brian Kidney <br>
 
 
 Ways to sign this letter:
