@@ -186,6 +186,7 @@ Daniel Tullemans <br>
 Jake Arkinstall <br>
 John Azariah <br>
 Kuba Tuček <br>
+Paul Targosz <br>
 
 
 Ways to sign this letter:
