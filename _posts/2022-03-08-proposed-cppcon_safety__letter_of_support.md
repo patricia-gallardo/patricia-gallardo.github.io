@@ -187,6 +187,8 @@ Jake Arkinstall <br>
 John Azariah <br>
 Kuba Tuček <br>
 Paul Targosz <br>
+Jake Cooke <br>
+Marion Marschalek <br>
 
 
 Ways to sign this letter:
