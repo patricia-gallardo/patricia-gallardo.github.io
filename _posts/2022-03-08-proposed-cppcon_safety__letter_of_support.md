@@ -196,6 +196,7 @@ Andrei Zissu <br>
 Moritz Bunkus<br>
 Jay Jackson <br>
 Ben Vining <br>
+Alex Huszagh <br>
 
 
 Ways to sign this letter:
