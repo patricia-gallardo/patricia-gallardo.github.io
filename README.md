@@ -1,4 +1,4 @@
-# Prologue - Jekyll Theme
+# Prologue - Jekyll Theme for patricia.no
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
 
