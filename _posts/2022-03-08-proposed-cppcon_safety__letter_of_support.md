@@ -203,6 +203,7 @@ Arve Bersvendsen <br>
 Inge Fredriksen <br>
 Brian Kidney <br>
 Aleksander Nordgarden-Rødner <br>
+Arjan Kleene <br>
 
 
 Ways to sign this letter:
