@@ -200,6 +200,7 @@ Alex Huszagh <br>
 Faraz Vahedi <br>
 Timothy Brackett <br>
 Arve Bersvendsen <br>
+Inge Fredriksen <br>
 
 
 Ways to sign this letter:
