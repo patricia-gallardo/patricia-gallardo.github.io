@@ -197,6 +197,7 @@ Moritz Bunkus<br>
 Jay Jackson <br>
 Ben Vining <br>
 Alex Huszagh <br>
+Faraz Vahedi <br>
 
 
 Ways to sign this letter:
