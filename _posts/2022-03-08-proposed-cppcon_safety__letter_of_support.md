@@ -185,6 +185,7 @@ Stephen Whittle <br>
 Daniel Tullemans <br>
 Jake Arkinstall <br>
 John Azariah <br>
+Paul Targosz <br>
 
 
 Ways to sign this letter:
