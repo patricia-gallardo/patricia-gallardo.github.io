@@ -206,6 +206,7 @@ Aleksander Nordgarden-Rødner <br>
 Arjan Kleene <br>
 Chris Palmer <br>
 Grady Booch <br>
+Pete Brubaker <br>
 
 
 Ways to sign this letter:
