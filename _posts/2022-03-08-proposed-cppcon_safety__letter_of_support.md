@@ -242,6 +242,7 @@ Martin Larsson <br>
 Markus Tacker <br>
 Jules Pénuchot <br>
 Kathleen Dollard <br>
+Christoph Vigano <br>
 
 
 Ways to sign this letter:
