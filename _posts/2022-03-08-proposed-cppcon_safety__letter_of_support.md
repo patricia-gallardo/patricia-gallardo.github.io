@@ -239,6 +239,8 @@ Arvid Skaugen <br>
 Rasmus Christian Pedersen <br>
 Piermario Orecchioni <br>
 Martin Larsson <br>
+Markus Tacker <br>
+Jules Pénuchot <br>
 
 
 Ways to sign this letter:
