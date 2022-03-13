@@ -215,6 +215,7 @@ Marcos Mayorga <br>
 Martin Matusiak <br>
 Rock Yiu <br>
 Adriaan de Groot <br>
+Patrick M. Hausen <br>
 
 
 Ways to sign this letter:
