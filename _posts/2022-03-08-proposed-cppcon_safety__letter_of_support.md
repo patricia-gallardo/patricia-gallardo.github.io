@@ -223,6 +223,14 @@ Johannes Brodwall <br>
 Gemma Anible <br>
 Paul McGee <br>
 root1m3 <br>
+M Fahru <br>
+Lena Wiberg <br>
+Samuel Nitsche <br>
+Stephen J. Thomas <br>
+Björn Fahller <br>
+Manu Sánchez <br>
+Fredrik Walløe <br>
+Chris Mander <br>
 
 
 Ways to sign this letter:
