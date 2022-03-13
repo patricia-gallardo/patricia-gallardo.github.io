@@ -227,6 +227,7 @@ Lena Wiberg <br>
 Samuel Nitsche <br>
 Stephen J. Thomas <br>
 Björn Fahller <br>
+Manu Sánchez <br>
 
 
 Ways to sign this letter:
