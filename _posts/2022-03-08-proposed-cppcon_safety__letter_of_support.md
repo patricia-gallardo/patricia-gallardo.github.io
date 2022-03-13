@@ -236,6 +236,8 @@ Dennis Börm <br>
 Marcelo Pinto <br>
 E.F. Fluff <br>
 Arvid Skaugen <br>
+Rasmus Christian Pedersen <br>
+Piermario Orecchioni <br>
 
 
 Ways to sign this letter:
