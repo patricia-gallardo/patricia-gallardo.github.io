@@ -228,6 +228,7 @@ Samuel Nitsche <br>
 Stephen J. Thomas <br>
 Björn Fahller <br>
 Manu Sánchez <br>
+Fredrik Walløe <br>
 
 
 Ways to sign this letter:
