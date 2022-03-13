@@ -211,6 +211,9 @@ Wouter Ensink <br>
 Kathrine Hoel <br>
 Mostyn Bramley-Moore <br>
 Tobias Geyer <br>
+Marcos Mayorga <br>
+Martin Matusiak <br>
+Rock Yiu <br>
 
 
 Ways to sign this letter:
