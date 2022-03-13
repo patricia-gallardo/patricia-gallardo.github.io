@@ -249,7 +249,7 @@ Wladimir Palant <br>
 Michael Fleet <br>
 Øyvind Fanebust <br>
 Will Pearce <br>
-Christopher Neumann Ruud<br>
+Christopher Neumann Ruud <br>
 
 
 Ways to sign this letter:
