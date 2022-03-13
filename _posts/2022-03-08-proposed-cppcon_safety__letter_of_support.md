@@ -225,6 +225,7 @@ Paul McGee <br>
 M Fahru <br>
 Lena Wiberg <br>
 Samuel Nitsche <br>
+Stephen J. Thomas <br>
 
 
 Ways to sign this letter:
