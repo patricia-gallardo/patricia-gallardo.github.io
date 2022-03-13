@@ -229,6 +229,7 @@ Stephen J. Thomas <br>
 Björn Fahller <br>
 Manu Sánchez <br>
 Fredrik Walløe <br>
+Chris Mander <br>
 
 
 Ways to sign this letter:
