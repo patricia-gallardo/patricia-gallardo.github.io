@@ -247,6 +247,7 @@ Aaron A. Ploetz <br>
 Sergio Garcia Murillo <br>
 Wladimir Palant <br>
 Michael Fleet <br>
+Øyvind Fanebust <br>
 
 
 Ways to sign this letter:
