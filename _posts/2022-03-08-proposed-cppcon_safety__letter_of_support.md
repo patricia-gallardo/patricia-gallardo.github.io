@@ -241,6 +241,7 @@ Piermario Orecchioni <br>
 Martin Larsson <br>
 Markus Tacker <br>
 Jules Pénuchot <br>
+Kathleen Dollard <br>
 
 
 Ways to sign this letter:
