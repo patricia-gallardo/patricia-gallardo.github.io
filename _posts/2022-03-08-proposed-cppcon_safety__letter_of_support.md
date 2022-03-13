@@ -233,6 +233,9 @@ Fredrik Walløe <br>
 Chris Mander <br>
 Lee J. O'Riordan <br>
 Dennis Börm <br>
+Marcelo Pinto <br>
+E.F. Fluff <br>
+Arvid Skaugen <br>
 
 
 Ways to sign this letter:
