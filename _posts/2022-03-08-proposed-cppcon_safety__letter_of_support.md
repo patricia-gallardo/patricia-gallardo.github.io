@@ -250,6 +250,7 @@ Michael Fleet <br>
 Øyvind Fanebust <br>
 Will Pearce <br>
 Lars Liedtke <br>
+Christopher Neumann Ruud <br>
 
 
 Ways to sign this letter:
