@@ -207,6 +207,8 @@ Arjan Kleene <br>
 Chris Palmer <br>
 Grady Booch <br>
 Pete Brubaker <br>
+Wouter Ensink <br>
+Kathrine Hoel <br>
 
 
 Ways to sign this letter:
