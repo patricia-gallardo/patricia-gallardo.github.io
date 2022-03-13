@@ -223,6 +223,8 @@ Johannes Brodwall <br>
 Gemma Anible <br>
 Paul McGee <br>
 M Fahru <br>
+Lena Wiberg <br>
+Samuel Nitsche <br>
 
 
 Ways to sign this letter:
