@@ -248,6 +248,7 @@ Sergio Garcia Murillo <br>
 Wladimir Palant <br>
 Michael Fleet <br>
 Øyvind Fanebust <br>
+Will Pearce <br>
 
 
 Ways to sign this letter:
