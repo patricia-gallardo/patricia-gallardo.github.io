@@ -267,7 +267,7 @@ David Barouh <br>
 Sean Murthy <br>
 Gerald Squelart <br>
 Daniel Medina <br>
-Jean Gautier <br>
+Anne van Kesteren <br>
 
 
 Ways to sign this letter:
