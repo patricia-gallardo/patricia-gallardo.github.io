@@ -258,6 +258,10 @@ Andrew Pardoe<br>
 Imran Javaid <br>
 Jörg Wunderlich-Pfeiffer <br>
 Ole-Morten Duesund <br>
+Pär Björklund <br>
+Philipp Gloor<br>
+Spencer F. Rudnick <br>
+Matthew S.E. Peterson <br>
 
 
 Ways to sign this letter:
