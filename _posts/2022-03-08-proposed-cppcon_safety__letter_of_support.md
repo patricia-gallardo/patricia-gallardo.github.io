@@ -276,6 +276,7 @@ Hans Brenna Schjønberg <br>
 Karianne Berg <br>
 Marcus Sonestedt <br>
 Martin Küttler <br>
+Arvid Gerstmann <br>
 
 
 Ways to sign this letter:
