@@ -268,6 +268,7 @@ Sean Murthy <br>
 Gerald Squelart <br>
 Daniel Medina <br>
 Gareth Lloyd <br>
+Jean Gautier <br>
 
 
 Ways to sign this letter:
