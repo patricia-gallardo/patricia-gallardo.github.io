@@ -273,6 +273,9 @@ Jean Gautier <br>
 Robert Maynard <br>
 Przemysław Nogaj <br>
 Hans Brenna Schjønberg <br>
+Karianne Berg <br>
+Marcus Sonestedt <br>
+Martin Küttler <br>
 
 
 Ways to sign this letter:
