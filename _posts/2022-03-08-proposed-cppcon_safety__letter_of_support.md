@@ -257,6 +257,7 @@ Jesper Alf Dam <br>
 Andrew Pardoe<br>
 Imran Javaid <br>
 Jörg Wunderlich-Pfeiffer <br>
+Ole-Morten Duesund <br>
 
 
 Ways to sign this letter:
