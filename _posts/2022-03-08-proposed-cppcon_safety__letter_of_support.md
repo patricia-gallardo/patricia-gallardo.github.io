@@ -278,6 +278,8 @@ Marcus Sonestedt <br>
 Martin Küttler <br>
 Arvid Gerstmann <br>
 Syed Ahmed <br>
+Mark West <br>
+Jörg Plate <br>
 
 
 Ways to sign this letter:
