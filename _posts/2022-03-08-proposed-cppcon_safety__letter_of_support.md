@@ -263,6 +263,10 @@ Pär Björklund <br>
 Philipp Gloor<br>
 Spencer F. Rudnick <br>
 Matthew S.E. Peterson <br>
+David Barouh <br>
+Sean Murthy <br>
+Gerald Squelart <br>
+Daniel Medina <br>
 
 
 Ways to sign this letter:
