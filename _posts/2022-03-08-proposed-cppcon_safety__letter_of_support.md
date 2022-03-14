@@ -271,6 +271,7 @@ Anne van Kesteren <br>
 Gareth Lloyd <br>
 Jean Gautier <br>
 Robert Maynard <br>
+Przemysław Nogaj <br>
 
 
 Ways to sign this letter:
