@@ -270,6 +270,7 @@ Daniel Medina <br>
 Anne van Kesteren <br>
 Gareth Lloyd <br>
 Jean Gautier <br>
+Przemysław Nogaj <br>
 
 
 Ways to sign this letter:
