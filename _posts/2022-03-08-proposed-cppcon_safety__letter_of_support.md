@@ -257,7 +257,8 @@ Jesper Alf Dam <br>
 Andrew Pardoe<br>
 Imran Javaid <br>
 Jörg Wunderlich-Pfeiffer <br>
-Spencer F. Rudnick
+Spencer F. Rudnick <br>
+Matthew S.E. Peterson <br>
 
 
 Ways to sign this letter:
