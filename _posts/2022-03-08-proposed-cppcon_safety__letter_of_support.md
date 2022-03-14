@@ -39,6 +39,7 @@ Gašper Ažman <br>
 Hannes Harnisch <br>
 Bronek Kozicki <br>
 Christopher Di Bella <br>
+Ryan McDougall
 Tamir Bahar <br>
 Luna Kirkby <br>
 Michael Dowden <br>
