@@ -268,6 +268,8 @@ Sean Murthy <br>
 Gerald Squelart <br>
 Daniel Medina <br>
 Anne van Kesteren <br>
+Gareth Lloyd <br>
+Jean Gautier <br>
 
 
 Ways to sign this letter:
