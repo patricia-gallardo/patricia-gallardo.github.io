@@ -257,6 +257,7 @@ Jesper Alf Dam <br>
 Andrew Pardoe<br>
 Imran Javaid <br>
 Jörg Wunderlich-Pfeiffer <br>
+Pär Björklund <br>
 Philipp Gloor<br>
 Spencer F. Rudnick <br>
 Matthew S.E. Peterson <br>
