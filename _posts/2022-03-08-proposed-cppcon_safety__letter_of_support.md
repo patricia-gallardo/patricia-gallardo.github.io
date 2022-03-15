@@ -287,6 +287,7 @@ Espen Klæboe <br>
 Sean Arnold <br>
 Mia Mukherjee <br>
 Sajid Ali <br>
+Barney Dellar <br>
 
 
 Ways to sign this letter:
