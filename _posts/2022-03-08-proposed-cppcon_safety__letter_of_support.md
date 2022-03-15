@@ -284,6 +284,7 @@ Jörg Plate <br>
 Mark Hoemmen <br>
 Geoffrey Romer<br>
 Espen Klæboe <br>
+Sean Arnold <br>
 
 
 Ways to sign this letter:
