@@ -290,6 +290,7 @@ Christian Helmich <br>
 Sajid Ali <br>
 Barney Dellar <br>
 Arne Berger <br>
+Richard Smith <br>
 
 
 Ways to sign this letter:
