@@ -291,6 +291,7 @@ Sajid Ali <br>
 Barney Dellar <br>
 Arne Berger <br>
 Philipp Engel <br>
+Richard Smith <br>
 
 
 Ways to sign this letter:
