@@ -185,5 +185,4 @@ Posted in #organization July 12th 2021 by Kate Gregory
 [4]: https://twitter.com/chandlerc1024/status/1502521340787527680?s=20&t=cyBZCqREOeO_HCQX-4EOWw
 [5]: https://twitter.com/pati_gallardo/status/1501211140310904841?s=20&t=cyBZCqREOeO_HCQX-4EOWw
 [6]: https://www.includecpp.org/posts/communication-cppcon/
-[7]: https://isocpp.org/standard-c-foundation-board-of-directors-meeting-minutes
-
+[7]: https://isocpp.org/blog/2022/03/2022-03-15-foundation-board-of-directors-meeting-minutes-posted
