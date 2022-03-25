@@ -149,6 +149,7 @@ only restriction was that they would not be allowed to resume their former organ
 * *2022-03-12:* Chandler Carruth, the previously unnamed board member that was made to leave the board, writes a [Twitter
   thread][4] about his experience.
 * *2022-03-14:* #include <C++> publishes a revised and official version of the [Include <C++> Position on CppCon Safety][6].
+* *2022-03-25:* The C++ Foundation board publishes their [minutes][7] from their meeting which was held on March 15th.
 
 ## Footnotes
 
@@ -184,3 +185,5 @@ Posted in #organization July 12th 2021 by Kate Gregory
 [4]: https://twitter.com/chandlerc1024/status/1502521340787527680?s=20&t=cyBZCqREOeO_HCQX-4EOWw
 [5]: https://twitter.com/pati_gallardo/status/1501211140310904841?s=20&t=cyBZCqREOeO_HCQX-4EOWw
 [6]: https://www.includecpp.org/posts/communication-cppcon/
+[7]: https://isocpp.org/standard-c-foundation-board-of-directors-meeting-minutes
+
