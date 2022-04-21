@@ -295,6 +295,7 @@ Richard Smith <br>
 Nico Bombace <br>
 David Blaikie <br>
 Raoul Borges <br>
+Michael Allar <br>
 
 
 Ways to sign this letter:
