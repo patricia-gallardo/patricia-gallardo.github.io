@@ -296,7 +296,8 @@ Nico Bombace <br>
 David Blaikie <br>
 Raoul Borges <br>
 Michael Allar <br>
-
+Shaun Anthony Roe <br>
+Oliver Rosten <br>
 
 Ways to sign this letter:
 1. A PR on the repo - path to file: [_posts/2022-03-08-proposed-cppcon_safety__letter_of_support.md][4]
