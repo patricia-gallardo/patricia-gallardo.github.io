@@ -153,6 +153,7 @@ only restriction was that they would not be allowed to resume their former organ
 * *2022-03-30:* X joins the US National Body (INCITS PL22.16) and thereby the ISO C++ standardization committee 
 * *2022-03-30:* The C++ Foundation board publishes a [Q&A document][8].
 * *2022-03-31:* CppCon publishes its first [Transparency Report][9] (does not include this incident).
+* *2022-05-04:* A change.org petition is created: [Ban convicted sex offender from ISO C++ Standard meetings][10]
 
 ## Footnotes
 
@@ -191,3 +192,4 @@ Posted in #organization July 12th 2021 by Kate Gregory
 [7]: https://isocpp.org/blog/2022/03/2022-03-15-foundation-board-of-directors-meeting-minutes-posted
 [8]: https://cppcon.org/answering-your-questions-about-our-case-transparency-report-and-safety-policy/
 [9]: https://cppcon.org/cppcon-2021-transparency-report/
+[10]: https://www.change.org/p/ban-convicted-sex-offender-from-iso-c-standard-meetings
