@@ -150,6 +150,7 @@ only restriction was that they would not be allowed to resume their former organ
   thread][4] about his experience.
 * *2022-03-14:* #include <C++> publishes a revised and official version of the [Include <C++> Position on CppCon Safety][6].
 * *2022-03-25:* The C++ Foundation board publishes their [minutes][7] from their meeting which was held on March 15th.
+* *2022-03-30:* X joins the US NB (INCITS PL22.16)
 * *2022-03-30:* The C++ Foundation board publishes a [Q&A document][8].
 * *2022-03-31:* CppCon publishes its first [Transparency Report][9] (does not include this incident).
 
