@@ -313,6 +313,7 @@ Pay Schulze Horn <br>
 Hemil Ruparel <br>
 Lars Nielsen <br>
 Anna Wszeborowska <br>
+Marcin Zdun <br>
 Henrik B. Aronsen <br>
 
 Ways to sign this letter:
