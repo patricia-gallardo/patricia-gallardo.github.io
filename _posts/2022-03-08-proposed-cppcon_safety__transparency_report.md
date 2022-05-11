@@ -155,6 +155,8 @@ only restriction was that they would not be allowed to resume their former organ
 * *2022-03-30:* The C++ Foundation board publishes a [Q&A document][8].
 * *2022-03-31:* CppCon publishes its first [Transparency Report][9] (does not include this incident).
 * *2022-05-04:* A change.org petition is created: [Ban convicted sex offender from ISO C++ Standard meetings][11]
+* *2022-05-11:* Barbara Geller writes a [thread on Twitter][12] where she describes how Jon Kalb removed her as organizer 
+  of the Bay Area ACCU Meetup after she brought up having a CoC and covid protocols.
 
 ## Footnotes
 
@@ -195,3 +197,4 @@ Posted in #organization July 12th 2021 by Kate Gregory
 [9]: https://cppcon.org/cppcon-2021-transparency-report/
 [10]: http://includecpp.org/posts/patricia-statement-of-support/
 [11]: https://www.change.org/p/ban-convicted-sex-offender-from-iso-c-standard-meetings
+[12]: https://twitter.com/copperspice_cpp/status/1524252740213297152?s=21&t=x0O4HuG8ms1V1WnwFEoelg
