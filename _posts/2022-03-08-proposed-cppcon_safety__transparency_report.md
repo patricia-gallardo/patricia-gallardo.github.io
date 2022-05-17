@@ -161,6 +161,7 @@ only restriction was that they would not be allowed to resume their former organ
   of the situation around X: "I demanded that person X must be removed as an organizer from the user group. Jon agreed to remove 
   X, but reluctantly" and "I said we needed to create a procedure addressing the safety of attendees on issues like known sex 
   offenders being in the room".
+* *2022-05-16:* CppCon publishes [Diversity and Inclusion at CppCon 2022][15].
 
 ## Footnotes
 
@@ -204,3 +205,4 @@ Posted in #organization July 12th 2021 by Kate Gregory
 [12]: https://twitter.com/copperspice_cpp/status/1524252740213297152?s=21&t=x0O4HuG8ms1V1WnwFEoelg
 [13]: https://twitter.com/copperspice_cpp/status/1524906177443733504?s=20&t=cPWMM1XVxjJoTWIhW0xLow
 [14]: https://twitter.com/copperspice_cpp/status/1524906224982151180?s=20&t=cPWMM1XVxjJoTWIhW0xLow
+[15]: https://cppcon.org/2022dipost/
