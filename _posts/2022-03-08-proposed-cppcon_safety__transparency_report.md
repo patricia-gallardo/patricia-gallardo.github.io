@@ -162,6 +162,8 @@ only restriction was that they would not be allowed to resume their former organ
   X, but reluctantly" and "I said we needed to create a procedure addressing the safety of attendees on issues like known sex 
   offenders being in the room".
 * *2022-05-16:* CppCon publishes [Diversity and Inclusion at CppCon 2022][15].
+* *2022-05-19:* LLVM publishes [Upcoming Project Policy Changes][16] which includes the following: "Users may not be a convicted 
+  sex offender or listed on any US state or federal sex offender registry (or other country equivalent).".
 
 ## Footnotes
 
