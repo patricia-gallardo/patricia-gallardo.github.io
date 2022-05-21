@@ -206,3 +206,4 @@ Posted in #organization July 12th 2021 by Kate Gregory
 [13]: https://twitter.com/copperspice_cpp/status/1524906177443733504?s=20&t=cPWMM1XVxjJoTWIhW0xLow
 [14]: https://twitter.com/copperspice_cpp/status/1524906224982151180?s=20&t=cPWMM1XVxjJoTWIhW0xLow
 [15]: https://cppcon.org/2022dipost/
+[16]: https://discourse.llvm.org/t/upcoming-project-policy-changes/62637
