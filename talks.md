@@ -6,6 +6,10 @@ icon: fa-film
 order: 2
 ---
 
+## 2022
+
+ACCU: [Keynote: Classic Vulnerabilities](/2022/03/12/accu_classic_vulnerabilities.html)
+
 ## 2020
 
 Meeting C++ Online: [Trying to build an Open Source browser in 2020](/2020/09/24/trying_to_build_an_open_source_browser_in_2020.html)
