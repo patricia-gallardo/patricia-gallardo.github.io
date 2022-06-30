@@ -12,7 +12,7 @@ ACCU 2022: [Keynote: Classic Vulnerabilities](/2022/03/12/accu_classic_vulnerabi
 
 ## 2021
 
-Meeting C++ 2021: [Introduction to memory exploitation]() (also presented at CppEurope 2021)
+Meeting C++ 2021: [Introduction to memory exploitation](/2021/11/12/meeting_cpp_introduction_to_memory_exploitation.html) (also presented at CppEurope 2021)
 
 ## 2020
 
