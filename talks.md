@@ -8,7 +8,11 @@ order: 2
 
 ## 2022
 
-ACCU: [Keynote: Classic Vulnerabilities](/2022/03/12/accu_classic_vulnerabilities.html) (also presented at NDC Security and MUCplusplus)
+ACCU 2022: [Keynote: Classic Vulnerabilities](/2022/03/12/accu_classic_vulnerabilities.html) (also presented at NDC Security 2022 and MUCplusplus June 2022)
+
+## 2021
+
+Meeting C++ 2021: [Introduction to memory exploitation]() (also presented at CppEurope 2021)
 
 ## 2020
 
