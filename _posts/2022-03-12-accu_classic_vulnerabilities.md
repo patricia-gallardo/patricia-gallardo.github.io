@@ -13,6 +13,8 @@ vulnerabilities and exploitation techniques are decades old.
 We'll look at some of these, how they have surfaced in recent years and how prepared we are today, armed with modern
 tooling, to find and fix "classic" vulnerabilities.
 
+Also presented at NDC Security and MUCplusplus.
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GhRZuBqKBT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 

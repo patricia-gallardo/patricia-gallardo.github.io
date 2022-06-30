@@ -8,7 +8,7 @@ order: 2
 
 ## 2022
 
-ACCU: [Keynote: Classic Vulnerabilities](/2022/03/12/accu_classic_vulnerabilities.html)
+ACCU: [Keynote: Classic Vulnerabilities](/2022/03/12/accu_classic_vulnerabilities.html) (also presented at NDC Security and MUCplusplus)
 
 ## 2020
 
