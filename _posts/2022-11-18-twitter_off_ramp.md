@@ -54,7 +54,7 @@ Tip: you can open the file in a spreadsheet program like Google Sheet or Excel t
 
 ### Re-follow all your Twitter follows
 
-1. When logged in as your user, press the item "Preferences" on the right panel ([link][4])
+1. When logged in as your user in Vivaldi Social, press the item "Preferences" on the right panel ([link][4])
 2. In the new view, press the item "Import and export" on the left panel ([link][5])
 3. This expands the item in the panel
 4. Click on the sub item "Import" ([link][6])
