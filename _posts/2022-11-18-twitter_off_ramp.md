@@ -83,11 +83,22 @@ Tip: you can open the file in a spreadsheet program like Google Sheet or Excel t
 * The text on the button should now say "Download archive"
 * Click the button and store the archive somewhere safe
 
+## Epilogue
+
 There are more advanced ways of doing things and other servers you can choose, but I want to keep this straight forward.
 
 If you want to know more about Vivaldi, their wiki page is [here][7]. I used to work there, they will take care of you
 until you get comfortable. Then you can choose if you want to move to a different server. I will be writing a post on
 that too.
+
+### Some intros from Vivaldi Social
+
+* [Getting started with Vivaldi Social][8]
+* [Post on Vivaldi Social][9]
+* [Browse content on Vivaldi Social][10]
+* [Vivaldi Social Settings][11]
+* [Customize your profile on Vivaldi Social][12]
+* [Interactions on Vivaldi Social][13]
 
 [1]: https://twitter.com/settings/download_your_data
 
@@ -102,3 +113,15 @@ that too.
 [6]: https://social.vivaldi.net/settings/import
 
 [7]: https://en.wikipedia.org/wiki/Vivaldi_(web_browser)
+
+[8]: https://help.vivaldi.com/services/social/getting-started-with-vivaldi-social/
+
+[9]: https://help.vivaldi.com/services/social/post-on-vivaldi-social/
+
+[10]: https://help.vivaldi.com/services/social/browse-content-on-vivaldi-social/
+
+[11]: https://help.vivaldi.com/services/social/vivaldi-social-settings/
+
+[12]: https://help.vivaldi.com/services/social/customize-your-profile-on-vivaldi-social/
+
+[13]: https://help.vivaldi.com/services/social/interactions-on-vivaldi-social/
