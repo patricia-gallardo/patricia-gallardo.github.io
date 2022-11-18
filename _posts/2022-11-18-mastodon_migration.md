@@ -70,11 +70,12 @@ I will try to keep this short and simple. We are going to try to migrate from on
 2. Write a post where you tell people you are moving and pin it
 3. Go to "Preferences" (right panel)
 4. Click on "Account" (left panel)
-5. Click on the link under "Move to a different account"
-6. Put the handle to the new account in the left field
-7. Put the password of the old account in the right field
-8. Click on the button "MOVE FOLLOWERS"
-9. Go to your profile and check that it says on the right "has been moved to"
+5. Scroll down
+6. Click on the link under "Move to a different account"
+7. Put the handle to the new account in the left field
+8. Put the password of the old account in the right field
+9. Click on the button "MOVE FOLLOWERS"
+10. Go to your profile and check that it says on the right "has been moved to"
 
 ## Epilogue
 
