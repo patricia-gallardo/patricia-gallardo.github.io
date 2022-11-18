@@ -9,7 +9,7 @@ image: "/assets/images/graffiti-488883_640.jpg"
 
 I'm not one for fluff, and if you're here you've made up you mind, so let's get to it. Here's the plan
 
-* [Part 1](#part-1) : (OPTIONAL) Ask for your twitter data (the download might take a day or so to be ready)
+* [Part 1](#part-1) : (OPTIONAL) Ask for your twitter data
 * [Part 2](#part-2) : Collect the new handles of the folks you follow
 * [Part 3](#part-3) : Get a Mastodon account
 * [Part 4](#part-4) : Re-follow all your Twitter follows
