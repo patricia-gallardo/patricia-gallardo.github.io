@@ -16,6 +16,8 @@ I'm not one for fluff, and if you're here you've made up you mind, so let's get 
 * Part 5 : Put your Mastodon account on your Twitter profile
 * Part 6 : Get your Twitter data
 
+Do this on a computer instead of mobile, my site isn't great on mobile, and you need to save some files and upload them.
+
 ## Part 1
 
 ### Ask for your twitter data
