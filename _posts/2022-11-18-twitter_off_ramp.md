@@ -9,18 +9,21 @@ image: "/assets/images/graffiti-488883_640.jpg"
 
 I'm not one for fluff, and if you're here you've made up you mind, so let's get to it. Here's the plan
 
-* Part 1 : Ask for your twitter data (the download might take a day or so to be ready)
+* Part 1 : (OPTIONAL) Ask for your twitter data (the download might take a day or so to be ready)
 * Part 2 : Collect the new handles of the folks you follow
 * Part 3 : Get a Mastodon account
 * Part 4 : Re-follow all your Twitter follows
 * Part 5 : Put your Mastodon account on your Twitter profile
-* Part 6 : Get your Twitter data
+* Part 6 : (OPTIONAL) Get your Twitter data
 
 Do this on a computer instead of mobile, my site isn't great on mobile, and you need to save some files and upload them.
 
 ## Part 1
 
-### Ask for your twitter data
+### (OPTIONAL) Ask for your twitter data
+
+This step is just to store all your tweets in case something happens to Twitter. It is not needed for getting a Mastodon
+account.
 
 1. Go [here][1]: Twitter settings for downloading Twitter archive
 2. Log in
@@ -79,7 +82,11 @@ This is important so that other people can also find you using tools like Fedifi
 
 ## Part 6
 
-### Before you can do this step you might have to wait a few days
+### (OPTIONAL) Download your twitter data
+
+
+This step is just to store all your tweets in case something happens to Twitter. It is not needed for getting a Mastodon
+account. Before you can do this step you might have to wait a few days.
 
 * Follow the same steps as in Part 1
 * The text on the button should now say "Download archive"
