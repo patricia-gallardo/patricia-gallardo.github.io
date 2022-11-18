@@ -72,8 +72,8 @@ I will try to keep this short and simple. We are going to try to migrate from on
 4. Click on "Account" (left panel)
 5. Scroll down
 6. Click on the link under "Move to a different account"
-7. Put the handle to the new account in the left field
-8. Put the password of the old account in the right field
+7. Put the handle to the **NEW** account in the _left_ field
+8. Put the password of the **OLD** account in the _right_ field
 9. Click on the button "MOVE FOLLOWERS"
 10. Go to your profile and check that it says on the right "has been moved to"
 
