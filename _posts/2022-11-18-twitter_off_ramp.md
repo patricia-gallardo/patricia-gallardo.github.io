@@ -63,10 +63,11 @@ Tip: you can open the file in a spreadsheet program like Google Sheet or Excel t
 3. This expands the item in the panel
 4. Click on the sub item "Import" ([link][6])
 5. Under "Import type" "Following list" should be selected. If not, click on the dropdown and select it
-6. Click on the button "Choose file"
-7. Select the fedifinder_accounts.csv file that you downloaded to your Downloads folder in [Part 2](#part-2)
-8. Click on the "UPLOAD" button
-9. Click on the item "Back to Vivaldi Social" on top of the left panel
+6. Make sure the "Merge" radio button is selected
+7. Click on the button "Choose file"
+8. Select the fedifinder_accounts.csv file that you downloaded to your Downloads folder in [Part 2](#part-2)
+9. Click on the "UPLOAD" button
+10. Click on the item "Back to Vivaldi Social" on top of the left panel
 
 ## Part 5
 
