@@ -82,7 +82,7 @@ This is important so that other people can also find you using tools like Fedifi
 5. Scroll down and put the link in your "Website" field (see note below)
 6. (Share this post so that others can do this too!)
 
-Note: if you don't want to use your "Website" field you can put your handle like this "@YOUR_HANDLE@social.vivaldi.net"
+Note: if you don't want to use your "Website" field you can put your handle like this "@YOUR_HANDLE@vivaldi.net"
 (or the url) in your bio, location field, name or pinned tweet.
 
 ## Part 6
