@@ -68,6 +68,8 @@ Tip: you can open the file in a spreadsheet program like Google Sheet or Excel t
 
 ### Put your Mastodon account on your Twitter profile
 
+This is important so that other people can also find you using tools like Fedifinder in Part 2.
+
 1. Click on your profile picture on the top left to go to your profile in Vivaldi Social
 2. Copy the url from the address bar
 3. On Twitter go to your profile
