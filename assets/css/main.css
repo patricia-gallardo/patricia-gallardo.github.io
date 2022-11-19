@@ -131,7 +131,7 @@ em, i {
 a {
     text-decoration: none;
     color: inherit;
-    border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
+    border-bottom: solid 1px rgba(128, 128, 128, 0.5);
     -moz-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
     -webkit-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
     transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
