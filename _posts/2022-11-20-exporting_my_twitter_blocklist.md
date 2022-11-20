@@ -7,7 +7,8 @@ icon: fa-pencil
 image: "/assets/images/streetart-gaae38352f_640.jpg"
 ---
 
-You can get a list of Mastodon handles for folks on your block-list from [Debirdify][1] to and import it into Mastodon.
+You can get a list of Mastodon handles for folks on your block-list from [Debirdify][1], and then you can import that
+into Mastodon.
 
 * [Part 1](#part-1) : Get the Mastodon handles of folks you blocked
 * [Part 2](#part-2) : Import the block-list on your Mastodon server
