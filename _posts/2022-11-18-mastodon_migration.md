@@ -9,6 +9,13 @@ image: "/assets/images/graffiti-gbf2cdfe79_640.jpg"
 
 I will try to keep this short and simple. We are going to try to migrate from one Mastodon server to another.
 
+### Pre-requisites
+
+* You have a new account on a new server, and an old account on an old server
+* You prefer the new account and want to move all of your followers over to it
+
+### Plan
+
 * [Part 1](#part-1) : **New Server**: Prepare your profile
 * [Part 2](#part-2) : **Old Server**: Download your follows list
 * [Part 3](#part-3) : **New Server**: Upload follows list
