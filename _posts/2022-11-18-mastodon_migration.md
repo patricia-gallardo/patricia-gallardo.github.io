@@ -77,6 +77,9 @@ I will try to keep this short and simple. We are going to try to migrate from on
 9. Click on the button "MOVE FOLLOWERS"
 10. Go to your profile and check that it says on the right "has been moved to"
 
+Note that the migration of your followers can take multiple days, depending on how overloaded the servers are for both
+you and your followers.
+
 ## Epilogue
 
 We will keep the old account for now, it is being redirected and our old posts are there. In the future we might want to
