@@ -67,7 +67,7 @@ I will try to keep this short and simple. We are going to try to migrate from on
 ### Old Server: Perform the move
 
 1. Log into the server you're moving from
-2. Write a post where you tell people you are moving and pin it
+2. Write a post where you tell people you are moving and pin it (perhaps also write it in the bio)
 3. Go to "Preferences" (right panel)
 4. Click on "Account" (left panel)
 5. Scroll down
