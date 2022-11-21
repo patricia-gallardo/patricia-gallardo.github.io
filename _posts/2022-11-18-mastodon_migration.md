@@ -13,6 +13,8 @@ I will try to keep this short and simple. We are going to try to migrate from on
 
 * You have a new account on a new server, and an old account on an old server
 * You prefer the new account and want to move all of your followers over to it
+* On the new account you don't require manually approving new followers (Preferences > Profile > Appearance: "Require
+  follow requests" should be **unchecked**)
 
 ### Plan
 
