@@ -84,7 +84,9 @@ I will try to keep this short and simple. We are going to try to migrate from on
 7. Put the handle (@user@server) to the **NEW** account in the _left_ field
 8. Put the password of the **OLD** account in the _right_ field
 9. Click on the button "MOVE FOLLOWERS"
-10. Go to your profile and check that it says on the right "has been moved to"
+10. In a browser, go to your profiles full url (example http://example.social/@your_handle) and check that it says
+    (across the top of your profile page) "YOUR_NAME has indicated that their new account is now:" and that underneath
+    is your new account information and a button with the text "Go to profile"
 
 Note that the migration of your followers can take multiple days, depending on how overloaded the servers are for both
 you and your followers.
