@@ -66,7 +66,7 @@ Interviewed by [Edward Thomson](https://twitter.com/ethomson) on [All Things Git
 
 ### .NET Rocks!
 Interviewed by [Carl Franklin](https://twitter.com/carlfranklin) and [Richard Campbell](https://twitter.com/richcampbell) on [.NET Rocks!](https://dotnetrocks.com) September 26th, 2018: <br>
-[Reading Other People's Code with Patricia Aas](https://dotnetrocks.com/?show=1586)
+[Reading Other People's Code with Patricia Aas](https://www.dotnetrocks.com/details/1586) ([YouTube video](https://youtu.be/75W9UhNI-9Y))
 
 ### Hanselminutes
 Interviewed by [Scott Hanselman](https://twitter.com/shanselman) on [Hanselminutes](https://hanselminutes.com) in May 2018, which was published in June 2018: <br>
