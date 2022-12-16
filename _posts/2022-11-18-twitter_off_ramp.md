@@ -79,11 +79,13 @@ This is important so that other people can also find you using tools like Fedifi
 2. Copy the url from the address bar
 3. On Twitter go to your profile
 4. Click on "Edit profile"
-5. Scroll down and put the link in your "Website" field (see note below)
+5. In the "Bio" field put your handle like this "@YOUR_HANDLE@vivaldi.net" (see note below)
 6. (Share this post so that others can do this too!)
 
-Note: if you don't want to use your "Website" field you can put your handle like this "@YOUR_HANDLE@vivaldi.net"
-(or the url) in your bio, location field, name or pinned tweet.
+Edit: Since Twitter now bans urls that go to most Mastodon servers, I've changed the advice in point 5 above to
+recommend putting the handle in the bio text instead of putting the link in the "Website" field.
+
+Note: You can put your handle like this "@YOUR_HANDLE@vivaldi.net" in your bio, location field, name or pinned tweet.
 
 ## Part 6
 
