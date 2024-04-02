@@ -35,4 +35,4 @@ Feedback: If you can't deal with talking to people: don't have a job where that 
 
 Key takeaways: This story wasn't really about sleeping on sofas. It was about reigning in our impulse to control other people through "rules". And also it's about realizing that this has real costs, both social and monetary. What are we actually trying to achieve? Can that be done without creating lots of rules and enforcement? 
 
-Can we just: talk to people?
+Also... just throwing a radical idea out there: maybe we could just talk to people? Just sit down with a cup of coffee and just talk?
