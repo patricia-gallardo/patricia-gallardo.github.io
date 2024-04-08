@@ -57,6 +57,7 @@ google_analytics:
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-feed
 
 whitelist:
   - jekyll-redirect-from
