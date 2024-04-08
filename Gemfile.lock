@@ -83,6 +83,8 @@ GEM
     mercenary (0.4.0)
     minitest (5.15.0)
     multipart-post (2.1.1)
+    nokogiri (1.13.10-arm64-darwin)
+      racc (~> 1.4)
     nokogiri (1.13.10-x86_64-linux)
       racc (~> 1.4)
     octokit (4.21.0)
@@ -109,8 +111,10 @@ GEM
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
 
 PLATFORMS
+  arm64-darwin-23
   x86_64-linux
 
 DEPENDENCIES
@@ -121,6 +125,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-redirect-from
   jekyll-sitemap
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.2.16

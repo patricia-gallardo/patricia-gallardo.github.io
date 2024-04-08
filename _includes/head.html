@@ -2,11 +2,11 @@
   {%- if site.google_analytics and jekyll.environment == 'production' -%}
     {%- include google_analytics.html -%}
   {%- endif -%}
-  
+
   <!-- Robots -->
   <meta name="robots" content="{{- page.robots | default: 'index, follow' -}}" />
   {%- unless page.canonical == false -%}<link rel="canonical" href="{{- page.url | absolute_url -}}" />{%- endunless -%}
-  
+
   <!-- Title, description, author -->
   {%- capture _page_title -%}
     {%- if page.title -%}{{- page.title | append: ' | ' -}}{%- endif -%}
@@ -32,7 +32,7 @@
   <meta name="twitter:description" content="{{- _page_description -}}" />
   <meta name="twitter:url" content="{{- page.url | absolute_url -}}" />
   <meta name="twitter:image" content="{{- site.url -}}{{- _page_image -}}" />
-  
+
   <!-- Open Graph -->
   <meta property="og:title" content="{{- _page_title -}}" />
   <meta property="og:type" content="website" />
@@ -48,7 +48,7 @@
   <link rel="manifest" href="{{ "/assets/icon/manifest.json" | absolute_url }}">
   <link rel="shortcut icon" href="{{ "/assets/icon/favicon.ico" | absolute_url }}">
   <link rel="icon" type="image/png" href="{{- 'assets/icon/pati-263x263.png' | relative_url -}}" />
-  
+
   <!-- Mastodon -->
   <link rel="me" href="https://mastodon.social/@patricia" />
   <link rel="me" href="https://infosec.exchange/@patricia" />
@@ -74,4 +74,7 @@
 
   <!-- PWA -->
   <meta name="theme-color" content="#ffffff"/>
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="Patricia Aas" href="https://patricia.no/feed.xml">
 </head>
