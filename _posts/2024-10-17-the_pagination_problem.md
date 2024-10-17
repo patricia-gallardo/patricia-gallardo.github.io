@@ -1,5 +1,5 @@
 ---
-title: Ask Why: The Pagination Problem
+title: Ask Why - The Pagination Problem
 description: Evaluating user feedback
 author: Patricia Aas
 layout: post
