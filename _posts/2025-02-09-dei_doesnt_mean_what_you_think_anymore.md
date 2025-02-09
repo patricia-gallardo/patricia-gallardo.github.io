@@ -7,6 +7,8 @@ icon: fa-pencil
 image: "/assets/images/quetzal-1680758_640.500.jpg"
 ---
 
+[Norwegian version](https://patricia.no/2025/02/09/dei_betyr_ikke_lengre_hva_du_tror.html)
+
 The expression "dog whistle" became well-known on the internet over the past decade. It refers to saying something that
 superficially sounds fine, but which those "in the know" understand the true meaning of. People take words and
 expressions that most people have a neutral or positive impression of, and attach a meaning that is often hateful. But

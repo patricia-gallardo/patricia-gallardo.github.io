@@ -7,6 +7,8 @@ icon: fa-pencil
 image: "/assets/images/quetzal-1680758_640.500.jpg"
 ---
 
+[English version](https://patricia.no/2025/02/09/dei_doesnt_mean_what_you_think_anymore.html)
+
 Ordet "hundefløyte" ble kjent på nett det siste tiåret, det betyr å si noe som overfladisk høres helt greit ut, men
 som de på "innsiden" forstår den egentlige betydningen av. Man tar ord og begrep som folk har et nøytralt eller positivt
 inntrykk av og legger inn en betydning som ofte er hatefull. Men vanlige folk som ikke er "ekstremt online" får ikke med
