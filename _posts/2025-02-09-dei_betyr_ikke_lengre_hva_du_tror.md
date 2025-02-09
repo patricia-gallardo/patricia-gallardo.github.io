@@ -1,5 +1,5 @@
 ---
-title: "DEI" betyr ikke lengre hva du tror
+title: DEI betyr ikke lengre hva du tror
 description: Når ord bytter mening
 author: Patricia Aas
 layout: post

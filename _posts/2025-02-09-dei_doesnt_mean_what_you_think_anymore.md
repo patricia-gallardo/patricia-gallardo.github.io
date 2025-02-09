@@ -1,5 +1,5 @@
 ---
-title: "DEI" doesn't mean what you think anymore
+title: DEI doesn't mean what you think anymore
 description: When words change meaning
 author: Patricia Aas
 layout: post
