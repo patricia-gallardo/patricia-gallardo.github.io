@@ -14,8 +14,8 @@ som de på "innsiden" forstår den egentlige betydningen av. Man tar ord og begr
 inntrykk av og legger inn en betydning som ofte er hatefull. Men vanlige folk som ikke er "ekstremt online" får ikke med
 seg den overførte betydningen, og folk kan si seg enige i ting de egentlig ikke forstår meningsinnholdet i.
 
-Ekstremhøyre med sin fascistiske ideologi har brukt dette i mange år. Det vi ser nå i USA tar dette til et helt nytt
-nivå, og tar også i bruk en annen fordel med hundefløyter: de er dårlig definert.
+Ekstremhøyre med sin fascistiske ideologi har brukt dette i mange år. **Det vi ser nå i USA tar dette til et helt nytt
+nivå, og tar også i bruk en annen fordel med hundefløyter: de er dårlig definert.**
 
 Hva "woke" egentlig betød før ekstemhøyre tok det i bruk var veldefinert, hva "DEI" og "ytringsfrihet" betyr har vært
 rimelig godt forstått verden over. Men hundefløytene "woke", "DEI" og "ytringsfrihet" betyr nok ikke hva du tror når de
@@ -35,8 +35,8 @@ hva ordene betyr.
 Og man kan få seg en stygg overraskelse når ord som er dårlig definert gjøres om til politisk handling og man plutselig
 ser at når de bruker "DEI" som et skjellsord så var det visst ikke "bare" folk som ikke er hvite de var ute etter å ta,
 de vil ta veteraner, kvinner, muslimer, skeive, transfolk og funksjonshemmede (med innslag av jøder avhengig av hvem som
-ytrer seg). Det er veldig klart at listen over menneskene de er ute etter å "ta" ligner veldig på den Nazistene lagde
-seg.
+ytrer seg). **Det er veldig klart at listen over menneskene de er ute etter å "ta" ligner veldig på den Nazistene lagde
+seg.**
 
 For denne rangeringen av mennesker som ligger i denne retorikken ligger tett opp til den Nazistene brukte, og nærer opp
 under latente fordommer i befolkningen. Den "urettferdigheten" som man hevder eksisterer er basert på en underliggende
