@@ -52,7 +52,7 @@ Any part of it you might agree with is someone else's idea. They are pulling in 
 
 FYI any "well actually" might result in a mute or a block because (read post 1) I'm not in the mood. I literally paid actual money for this book (twice) so I consider that to be all the dues I'm required to pay to say why I hate it.
 
-## Part I
+## Part I: "Teams as the means of delivery"
 
 ### Chapter 1: "The Problem with Org Charts"
 
@@ -61,7 +61,7 @@ Starting from the beginning. The logical foundation from which all this springs:
 1. Conway's Law, 1967 (which is an observation based on Mel Conway's own experience) [^3]
 2. Inverse Conway Maneuver, 2015 (which is a made up thought experiment by James Lewis et al of Thoughtworks) [^4]
 
-#### Conway's law
+#### Conway's law, an observation
 
 Based on my own experience I can see how Conway's Law can be plausible:
 
