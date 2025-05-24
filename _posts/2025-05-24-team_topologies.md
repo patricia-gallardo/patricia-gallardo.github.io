@@ -7,7 +7,9 @@ icon: fa-pencil
 image: "/assets/images/tt_slide1.jpg"
 ---
 
-This blogpost is a barely edited version of the Mastodon thread [^1]. It was written over the span of 9 days as I was reading the book, so this is not something written up after. It is what it is.
+This blogpost is a barely edited version of the Mastodon thread [^1]. It was written over the span of 9 days as I was reading the book, so this is not something written up after. It is what it is. The talk I was preparing was presented at NDC Oslo 2025 and will come on their YouTube channel. The slide-set for the talk I was making is here [^22]. 
+
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/1mep2sABuGmgBI?startSlide=1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://www.slideshare.net/slideshow/the-fundamental-misunderstanding-in-team-topologies/279513180" title="The fundamental misunderstanding in Team Topologies" target="_blank">The fundamental misunderstanding in Team Topologies</a> </strong> from <strong> <a href="https://www.slideshare.net/PatriciaAas" target="_blank">Patricia Aas</a> </strong></div>
 
 ## Thread Introduction
 
