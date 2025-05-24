@@ -293,9 +293,9 @@ There also seems to be a weird idea that there is some sort of handoff from a ba
 
 And since I'm honestly worried y'all will think I have completely misunderstood everything, I present a couple of beautiful (told you the graphical designer was good) and completely nonsensical figures from this chapter.
 
-<img src="../assets/images/tt_figure_2_2.png" alt="Diagram description: 4 applications that seem to consist of a ui layer and a 'app tier', represented by 4 blue boxes labeled UI each with a corresponding arrow to their 'app tier box', where the 4 'app tiers' have pointers to a single Core DB which has an arrow to a box with Ops on it. Text: Figure 2.2: Software Architecture from Four-Team Organization" width="200"/>
+<img src="/assets/images/tt_figure_2_2.png" alt="Diagram description: 4 applications that seem to consist of a ui layer and a 'app tier', represented by 4 blue boxes labeled UI each with a corresponding arrow to their 'app tier box', where the 4 'app tiers' have pointers to a single Core DB which has an arrow to a box with Ops on it. Text: Figure 2.2: Software Architecture from Four-Team Organization" width="200"/>
 
-<img src="../assets/images/tt_figure_2_1.png" alt="Four separate applications, each with a separate user interface (UI) and a backend application tier that communicate with a single shared database. This reflects and matches the team communication architecture from Figure 2.1; The diagram has simply been rotated ninety degrees. Four teams labeled A to D have a front end dev and a back end dev box and then the backend dev boxes point to a DBA box which then points to an Ops box. Text: Figure 2.1: Four Teams Working on a Software System Four separate teams consisting of front-end and back-end developers work on a software system. Front-end devs communicate only with back-end devs, who communicate with a single DBA for the database changes." width="200"/>
+<img src="/assets/images/tt_figure_2_1.png" alt="Four separate applications, each with a separate user interface (UI) and a backend application tier that communicate with a single shared database. This reflects and matches the team communication architecture from Figure 2.1; The diagram has simply been rotated ninety degrees. Four teams labeled A to D have a front end dev and a back end dev box and then the backend dev boxes point to a DBA box which then points to an Ops box. Text: Figure 2.1: Four Teams Working on a Software System Four separate teams consisting of front-end and back-end developers work on a software system. Front-end devs communicate only with back-end devs, who communicate with a single DBA for the database changes." width="200"/>
 
 I can only assume that they worked on some Oracle based enterprise project in 2000 or something, because this makes no sense and to be honest I don't think it makes sense describing an enterprise Oracle based system even then. But I've been in the business for 20 years and this is nonsense.
 
@@ -371,7 +371,7 @@ I have so many issues with this text we'll just have to take them one by one. As
 
 First, from user interaction design we actually look for these things, I saw a wonderful picture of a park as an illustration once. I couldn't find it so this will do.
 
-<img src="../assets/images/tt_paths.jpg" alt="A photo from high ground showing a green between buildings at a university, with some paved paths and a myriad of unpaved, clearly visible, downtrodden, highly used paths." width="200"/>
+<img src="/assets/images/tt_paths.jpg" alt="A photo from high ground showing a green between buildings at a university, with some paved paths and a myriad of unpaved, clearly visible, downtrodden, highly used paths." width="200"/>
 
 The idea is that "unintended uses" reveal real needs. So if I saw that two teams, that according to my architecture drawing shouldn't need to collaborate, were talking a lot, I would definitely be interested, but for the opposite reason: They have clearly discovered something that is not well understood. At least by me.
 
@@ -1092,17 +1092,17 @@ Shout out to folks who got this far in the thread and still came to my talk 💜
 
 Call me old (and brave), but this I think should be uncontroversial in 2025:
 
-<img src="../assets/images/tt_slide51.jpg" alt="Text: What have we learned? To build good things: we need to talk to others. See: Agile, User Experience, Product Management. To build things fast: we need to talk to each other.  See: DevOps" width="200"/>
+<img src="/assets/images/tt_slide51.jpg" alt="Text: What have we learned? To build good things: we need to talk to others. See: Agile, User Experience, Product Management. To build things fast: we need to talk to each other.  See: DevOps" width="200"/>
 
 My way to round off this thread, I guess, are these simple things. You want to be good at making things for others? It's not magic, and it's very human.
 
 Thanks for the ride folks!
 
-<img src="../assets/images/tt_slide52.jpg" alt="Picture: R2D2 trying to give flowers to a trashcan. Text: Good talk. The problem isn't that we talk too much. It is that we don't talk enough with the right people." width="200"/>
+<img src="/assets/images/tt_slide52.jpg" alt="Picture: R2D2 trying to give flowers to a trashcan. Text: Good talk. The problem isn't that we talk too much. It is that we don't talk enough with the right people." width="200"/>
 
-<img src="../assets/images/tt_slide62.jpg" alt="Picture: weird curled up monster eating people plural. Text: You want to make something great? Make something shit fast. And show it to people. They will tell you exactly how it sucks." width="200"/>
+<img src="/assets/images/tt_slide62.jpg" alt="Picture: weird curled up monster eating people plural. Text: You want to make something great? Make something shit fast. And show it to people. They will tell you exactly how it sucks." width="200"/>
 
-<img src="../assets/images/tt_slide64.jpg" alt="Picture: weirdly happy skull in a hat. Text: And one day, seemingly by magic. You'll make something they love." width="200"/>
+<img src="/assets/images/tt_slide64.jpg" alt="Picture: weirdly happy skull in a hat. Text: And one day, seemingly by magic. You'll make something they love." width="200"/>
 
 <img src="/assets/images/tt_slide67.jpg" alt="Picture: Blue hair woman staring up and past you. Text: Anyone who needs to read this book to understand How Tech Orgs Work, does not have the requisite knowledge to make anyone good at this." width="200"/>
 
