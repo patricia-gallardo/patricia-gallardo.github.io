@@ -7,7 +7,7 @@ icon: fa-pencil
 image: "/assets/images/tt_slide1.jpg"
 ---
 
-This blogpost is a barely edited version of the Mastodon thread [^1]. It was written over the span of 9 days as I was reading the book, so this is not something written up after. It is what it is. The talk I was preparing was presented at NDC Oslo 2025 and will come on their YouTube channel. The slide-set for the talk I was making is here [^22]. 
+This blogpost is a barely edited version of the Mastodon thread [^1] on Team Topologies. It was written over the span of 9 days as I was reading the book for the second time, so this is not something written up after. (I wrote a thread the first time I read it too [^23]) It is what it is. I wrote Mastodon threads because I really couldn't read it otherwise, the book has no narrative, is extremely repetitive and is mostly just regurgitating what I refer to as Other People's Thoughts, which you could read better in the original authors work (as you should because their work is often quite misrepresented). Their actual Original Thoughts are in my opinion extremely harmful, and that is basically what this thread goes into. The talk I was preparing was presented at NDC Oslo in May of 2025 and will come on their YouTube channel. The slide-set for the talk I was making is here [^22]. 
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/1mep2sABuGmgBI?startSlide=1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"><strong> <a href="https://www.slideshare.net/slideshow/the-fundamental-misunderstanding-in-team-topologies/279513180" title="The fundamental misunderstanding in Team Topologies" target="_blank">The fundamental misunderstanding in Team Topologies</a> </strong> from <strong> <a href="https://www.slideshare.net/PatriciaAas" target="_blank">Patricia Aas</a> </strong></div>
 
@@ -1072,3 +1072,4 @@ Thanks for the ride folks!
 [^20]: https://social.vivaldi.net/@Patricia/112704853516887578
 [^21]: https://social.vivaldi.net/@Patricia/114541235812040015
 [^22]: https://www.slideshare.net/slideshow/the-fundamental-misunderstanding-in-team-topologies/279513180
+[^23]: https://social.vivaldi.net/@Patricia/112491333220209206
