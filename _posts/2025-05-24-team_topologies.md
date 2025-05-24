@@ -93,14 +93,9 @@ Fundamentally: Re-org your organization to reflect the architecture you want.
 ##### Formal logic argument
 
 This makes a bunch of fundamental assumptions that should be examined, first of all logic:
-
-In formal logic we have "Modus ponens" [^6] typically of a form like: "If it rains the grass gets wet, it has rained, therefore the grass is wet"
-
-Another related concept is "Modus tollens" [^7], which would then be: If it rains then the grass gets wet, the grass is not wet therefore it did not rain.
-
-Associated with these is a common fallacy "Affirming the consequent" [^8] which in this example would be: If it rains the grass gets wet, the grass is wet, therefore it has rained.
-
-This fallacy is in this case easy to refute, we don't know why the grass is wet, it might have been sprinklers that got turned on.
+- In formal logic we have __"Modus ponens"__ [^6] typically of a form like: "If it rains the grass gets wet, it has rained, therefore the grass is wet"
+- Another related concept is __"Modus tollens"__ [^7], which would then be: If it rains then the grass gets wet, the grass is not wet therefore it did not rain.
+- Associated with these is a common fallacy __"Affirming the consequent"__ [^8] which in this example would be: If it rains the grass gets wet, the grass is wet, therefore it has rained. This fallacy is in this case easy to refute, we don't know why the grass is wet, it might have been sprinklers that got turned on.
 
 ##### Modus ponens
 
@@ -110,12 +105,10 @@ I also firmly believe that this is the nature of the fundamental problems that b
 
 ##### Conway's Law as formal logic statement
 
-So in formal logic what is Conway's Law saying?
-
+So in formal logic what is Conway's Law saying?  
 I think it is fair to boil it down to this:
 
-If two groups can't effectively collaborate (P), they will create an interface (Q).
-
+If two groups can't effectively collaborate (P), they will create an interface (Q).  
 Or in Modus Ponens:
 
 If P, then Q.  
@@ -329,11 +322,13 @@ This is in my experience an illusion, but whatever, it's fine. It is a bit annoy
 
 Narrator: Well, actually, Patricia...
 
+#### Misrepresenting Conway
+
 They also constantly misrepresent what Conway said which is annoying me to no end.
 
 Example:
 
-Conway: 
+Conway:
 > *"Because the design which occurs first is almost never the best possible, the prevailing system concept may need to change. Therefore, flexibility of organization is important to effective design."*
 
 TT:
@@ -345,10 +340,8 @@ Chapter 2 has a sub header that says the quiet part out loud right in the title:
 
 #### "Restrict Unnecessary Communication"
 
-That's what this book should've been called, because that is what this book is about.
-
-To be honest, that whole subsection is critical for understanding their entire world view. See next post for pictures.
-
+That's what this book should've been called, because that is what this book is about.  
+To be honest, that whole subsection is critical for understanding their entire world view. See next post for pictures.  
 Then we will discuss the reasons why this is problematic.
 
 I have so many issues with this text we'll just have to take them one by one. As a meta comment I am concerned that the authors are once again taking Other Peoples Thoughts and presenting them as if they're saying the opposite of what they were actually saying, but I'll have to get back to that later (only so many digressions at a time).
@@ -379,8 +372,7 @@ The idea is that "unintended uses" reveal real needs. So if I saw that two teams
 
 Optimal UX design would wait for some of these patterns to emerge, and then "pave" them, by making them easier to use, helping the users avoid some of the hacks they are currently employing to Get Shit Done.
 
-This is not a bug, this is a feature. Teams that reach out and collaborate when needed are the absolute best.
-
+This is not a bug, this is a feature. Teams that reach out and collaborate when needed are the absolute best.  
 This is not a flaw in the teams, this is, if anything, a flaw in the architecture drawing. Which to be honest is mostly garbage anyway.
 
 The first line is yet another misunderstanding of Conway: 
@@ -424,15 +416,11 @@ One of the important things about this whole idea from Spotify is right there in
 
 This problem means that one will need to figure out the tradeoffs one needs to make for the organization not to grind to a halt when scaling the number of people by some factor every year. To be honest I can't imagine even a 50% increase in a year not being an issue in an engineering organization.
 
-Blogpost from 2012 [^11]
-
 I think this is important to discuss because it is central to this entire class of problems. What happens to an engineering org that increases by 100% in a year, that has to onboard all of these people, teach them, show them the ropes, mentor them, help them?
 
 We know that onboarding people is time consuming, and that time is taken from the people who are already experienced in the org. Unfortunately these are the people keeping your product running.
 
-So by upping your headcount you will probably slow your organization down. When you up by a lot, you might grind it to a halt.
-
-Which reminds me of this clip from Bad Boys 2:
+So by upping your headcount you will probably slow your organization down. When you up by a lot, you might grind it to a halt. Which reminds me of this clip from Bad Boys 2:
 
 "- Carlos, this is a stupid fucking problem to have, but it is a problem, nonetheless," the drug kingpin says while shooting at the rats eating his money [^14]
 
@@ -448,10 +436,8 @@ Now imagine that this is your situation (again, not at all normal or wise), in s
 
 And from what I heard that was what happened at Spotify. Multiple distributed teams came up with the same idea and ran with it, multiple concurrent completely independent implementations of the same idea happened. Lots of stuff was thrown away. But Spotify survived as a product.
 
-This isn't good engineering.
-
-This is a complete waste of money and talent.
-
+This isn't good engineering.  
+This is a complete waste of money and talent.  
 Hyper scaling an engineering org is a Bad Idea Actually.
 
 But if it happens, if it's out of your hands, you do your best to protect the product, because the product is what is paying for all of this shit.
@@ -464,16 +450,11 @@ To quote the drug kingpin again: "This is a stupid fucking problem to have" [^14
 
 This is expensive and produces results that you could've gotten done better with a much smaller organization.
 
-The problem is the hyper-growth.
-
-You can't absorb it responsibly.
-
-So you have to do hacks to not grind to a halt.
-
-And one of those hacks is to build walls.
-
-But those walls produce a whole host of other problems.
-
+The problem is the hyper-growth.  
+You can't absorb it responsibly.  
+So you have to do hacks to not grind to a halt.  
+And one of those hacks is to build walls.  
+But those walls produce a whole host of other problems.  
 That's all I'll say about Spotify. Let's move on.
 
 Ok, one last thing on Spotify, because I don't want people to think that whatever they did was bad. They tried to solve a problem that is known to be really hard. I am not criticizing the engineering leadership here, maybe this was as optimal as anything can get under these circumstances and Spotify is still around and to be honest that's the proof in the pudding here.
@@ -501,8 +482,6 @@ There are approximately 20 refs per page, 12 ref pages. So if we assume each ref
 That means that 21% of the book is other people's words.
 
 It feels like a lot more to be honest. But tbf a lot of these works are quoted multiple times, so it just might be.
-
-Example pages
 
 Ok, ok, we need to speed up this shit.
 
@@ -532,8 +511,7 @@ Their actual argument is "Amazon says 2 pizzas, and Amazon is cool" also by the 
 
 ** This is also very tiresome, but I assume it's down to the American rule of "Tell them what you're going to tell them, tell them, tell them what you told them". Unfortunately, we will be told a fourth time in the chapter key takeaways and a fifth time in the "TIP" box.
 
-Note also that yet again our "stable and long running teams" might need to be split up if they exceed this magical number which is based on the highly disputed "Dunbar's Number" (which wouldn't apply anyway, because it would be your family and friends) which an anthropologist made up 30 years ago and extrapolated from the brain size of primates.
-
+Note also that yet again our "stable and long running teams" might need to be split up if they exceed this magical number which is based on the highly disputed "Dunbar's Number" (which wouldn't apply anyway, because it would be your family and friends) which an anthropologist made up 30 years ago and extrapolated from the brain size of primates.  
 But whatever.
 
 I have thoughts on this, but for now I just want to show this dynamic in the text (see pic). Here they use the work of 3 widely different "thought leaders" to conclude you shouldn't add new people to a team.
@@ -558,10 +536,8 @@ ROFL, do you want to know the length they mean by "long running"?
 
 Jesus Christ, people aren't fully productive in most domains/codebases before they've been doing it for 6 months to a year in my experience. Though I'm sure senior people can do it faster, especially with simpler systems/domains.
 
-If you're switching people out as fast as this, you are losing a massive amount of institutional knowledge.
-
-I was assuming 4-5 years. Silly me.
-
+If you're switching people out as fast as this, you are losing a massive amount of institutional knowledge.  
+I was assuming 4-5 years. Silly me.  
 By the way, 2 years? This is not "long running" in any company I've been in. This is on the low end of normal.
 
 I hate that I have actually read these books they bring up.
@@ -585,16 +561,13 @@ And also stuff that's boring to debate:
 
 Getting to one of their core concepts "Cognitive Load"
 
-New plan: fold laundry while listening to the audio book, and occasionally peeking at the physical book. My brain keeps trying to run away. Must persist.
+New plan: fold laundry while listening to the audiobook, and occasionally peeking at the physical book. My brain keeps trying to run away. Must persist.
 
 Btw, when I say skipping past I don't mean I don't read it, I mean I can't be bothered to discuss it.
 
-OMG. I missed this in my first reading: THEY DID NOT INVENT COGNITIVE LOAD.
-
-This is Yet Another: Other Persons Thought
-
-Jesus Christ.
-
+OMG. I missed this in my first reading: THEY DID NOT INVENT COGNITIVE LOAD.  
+This is Yet Another: Other Persons Thought  
+Jesus Christ.  
 Shout out to psychologist John Sweller whose 1988 work I've apparently missed out on: "Cognitive Load During Problem Solving: Effects on Learning" [^15]
 
 Brain decides to digress to read said paper.
@@ -633,10 +606,8 @@ Can you imagine reading a paper on "being clueless is good actually" and going Y
 
 Speaking of, back to the book, this was a disappointment.
 
-ROFL. They didn't read the paper. They read Someone Else's Thoughts on the matter 🤣
-
-Shout out to Jo Pearce, I guess.
-
+ROFL. They didn't read the paper. They read Someone Else's Thoughts on the matter 🤣  
+Shout out to Jo Pearce, I guess.  
 Omg. The references to Pearce are a link to a slide deck and a blog post. 💀 Hashtag doing science
 
 * Pearce, Jo. "Day 3: Managing Cognitive Load for Team Learning." 12 Devs of Xmas (blog), December 28, 2015. [^16]
@@ -658,11 +629,9 @@ COGNITIVE LOAD
 
 They are literally using the words "team API".
 
-Broke: talking to people
-
-Woke: reading the docs written by the person next to you
-
-Bespoke: submitting a jira to the person sitting next to you saying the docs were unclear
+__Broke__: talking to people  
+__Woke__: reading the docs written by the person next to you  
+__Bespoke__: submitting a jira to the person sitting next to you saying the docs were unclear
 
 Apparently pairing with people on other teams or participating in "communities of practice" etc are not affected by the "conways law banning communication" because suddenly talking is good when… something?
 
@@ -670,8 +639,7 @@ Turns out Robert Axelrod** and Mark Burgess*** found that knowing people in othe
 
 Imagine. Talking To People Might Be Good Actually?
 
-** Axelrod, Complexity of Cooperation
-
+** Axelrod, Complexity of Cooperation  
 *** Burgess, Thinking in Promises
 
 Good thing we didn't spend more than half a page on that, don't want to encourage that kind of behavior.
@@ -745,10 +713,8 @@ Me: fucking kill me now
 
 In case you were wondering: "these are the only four team topologies needed to build and run modern software systems"
 
-What is a "topology" you may be wondering as we enter chapter 5.
-
-It's a term for "team type".
-
+What is a "topology" you may be wondering as we enter chapter 5.  
+It's a term for "team type".  
 It's just a team.
 
 Forget math. It has nothing to do with math or maps or anything. The book could actually be called "Team Types" but I'm sure that's bad for marketing.
@@ -784,8 +750,7 @@ The below are the words of a couple of people at Auto Trader in the UK:
 >
 > *So in 2013, we moved everyone to OpEx. Now everyone is simply doing the work needed to make the company money. With our OpEx-only model, everyone is closer to the customer because we are not thinking about "building new stuff for the product manager" but meeting the needs of users. In fact, OpEx is a deliberate enabling constraint for us: we have a stable workforce of around eight hundred people, and we have no plans to grow hugely. This stable set of people helps with the continuity of care for our software applications and services."*
 
-Good news! We are over halfway through the book!
-
+Good news! We are over halfway through the book!  
 Page 100!
 
 The only new thought so far in chapter 5 is Enabling Teams, I don't know if they came up with it or if they just re-named something someone else came up with. This addresses a real loss that happens when going to "feature teams"/"cross functional teams", you often lose this depth of knowledge and time to help. And no, Community of Practice is not enough to replace it, it is a real loss of institutional knowledge and capability. So maybe Enabling Teams are worth a shot for some orgs?
@@ -824,24 +789,20 @@ Here he is *again* in the very first sentence. The authors are *obsessed* with t
 
 Ok, this was so basic I doubt it would be useful to anyone working on platforms. This sounds like an executive summary for managers…
 
-WAIT. HOLD THE FUCKING PHONE.
-
-THAT'S WHAT THIS FUCKING BOOK IS!!
-
+WAIT. HOLD THE FUCKING PHONE.  
+THAT'S WHAT THIS FUCKING BOOK IS!!  
 IT'S A FUCKING EXECUTIVE SUMMARY FOR MANAGEMENT THAT KNOWS FUCK ALL ABOUT TECH ORGS!!!
 
 This is a Tech Orgs For Dummies book!
 
-Here is a description of a relatively normal tech org for a webapp, plus let's spice it up with not letting people talk to each other!!!
-
+Here is a description of a relatively normal tech org for a webapp, plus let's spice it up with not letting people talk to each other!!!  
 Sell books, sell consulting, do so many reorgs and PROFIT!
 
 The rest of chapter 5 is just reorg.
 
 ### Chapter 6: "Choose Team-First Boundaries"
 
-Alright! Chapter 6!
-
+Alright! Chapter 6!  
 "Choose Team-First Boundaries" based on the references I'm guessing it's about DevOps.
 
 #### "Monolith Bad"
@@ -850,26 +811,21 @@ Sigh. We're on the "monolith bad" "DBA bad" train. I promise you a DBA hurt thes
 
 Is there a book on Minimal Viable Architecture? There should be and these people should read it.
 
-MICRO SERVICE ALL THE THINGS!
-
-CHOP UP THAT MONOLITH!
-
-WHAT IS A MONOLITH?
-
+MICRO SERVICE ALL THE THINGS!  
+CHOP UP THAT MONOLITH!  
+WHAT IS A MONOLITH?  
 EVERYTHING I DON'T LIKE
 
 Lol, I'm gonna do their quote out of context cherry picking back at them:
 
-"Monolithic thinking is "one size fits all" thinking for teams that lead to unnecessary restrictions" (context skipped to make it seem that they agree with me)
+*"Monolithic thinking is "one size fits all" thinking for teams that lead to unnecessary restrictions"* (context skipped to make it seem that they agree with me)
 
 It hadn't occurred to me that this was a whirlwind tour of "relatively new" practices for bog standard webapp producing orgs, plus some destructive communication restrictions.
 
 Now that it has, I'm also pissed at the intended audience of this book. If this is the level of effort you are willing to put in to try to understand the sector you're in, you are in my absolutely not humble opinion: completely unqualified to manage such an organization.
 
-Jesus Christ, most of the people who work for you are VASTLY more knowledgeable than this and YOU are going to tell THEM how to do THEIR job?
-
-WTF. Seriously?
-
+Jesus Christ, most of the people who work for you are VASTLY more knowledgeable than this and YOU are going to tell THEM how to do THEIR job?  
+WTF. Seriously?  
 Just fucking ask them what they need.
 
 You know what is hilarious? They want to get rid of architects because architecture needs to be evolved by the teams, BUT this whole book is about doing Top Down Up Front architecture through the most invasive means possible: by fucking up all the teams and collaboration in an org.
@@ -936,8 +892,7 @@ Ref the post a couple of posts up, in case it wasn't clear: that org is doing am
 
 I got so annoyed I lost the cap of my yellow highlighter.
 
-This chapter is just garbage because it displays a complete lack of understanding of how stuff that people actually use, is built.
-
+This chapter is just garbage because it displays a complete lack of understanding of how stuff that people actually use, is built.  
 If you want people to use what you build you have 2 basic options:
 
 1. Give them no other option. Examples: your company's intranet (which are almost always absolute garbage) or whatever system they need to use to do their fucking job. In both cases you literally pay them to use it.  
@@ -949,30 +904,25 @@ Unfortunately for this fucking book, there is a lower bound to how garbage your 
 
 DUDE, THE USERS OF YOUR FUCKING API AND YOUR X AS A SERVICE ARE YOUR FUCKING USERS. YOU HAVE TO TALK TO THEM. ALL THE FUCKING TIME.
 
-Fracture all the planes you want, you are just creating MORE FUCKING PEOPLE TO TALK TO.
-
+Fracture all the planes you want, you are just creating MORE FUCKING PEOPLE TO TALK TO.  
 DevEx and UX don't happen in a vacuum. This is fucking delusional.
 
 I have a talk about this in the morning. I need a whole week. 😭😭😭
 
 I'm rolling my eyes through chapter 7 as fast as I possibly can. This whole chapter should be deleted.
 
-Ok, I feel I need to be clear here. My problem with this chapter and to be honest the whole book is that you can't sit on the outside and divine these things.
-
+Ok, I feel I need to be clear here. My problem with this chapter and to be honest the whole book is that you can't sit on the outside and divine these things.  
 The people know what they need.
 
-And they don't need you to tell them that they are now allowed a "collaborative interaction mode" (just this once as a treat) because they are figuring out an interface.
-
+And they don't need you to tell them that they are now allowed a "collaborative interaction mode" (just this once as a treat) because they are figuring out an interface.  
 Dude. These are grown ass professionals. They know how to do their fucking jobs.
 
 This book is what mansplaining would look like if it was published as a book.
 
 ### Chapter 8: "Evolve Team Structures with Organizational Sensing"
 
-Final chapter (before the conclusion!)
-
-Chapter 8: "Evolve Team Structures with Organizational Sensing"
-
+Final chapter (before the conclusion!)  
+Chapter 8: "Evolve Team Structures with Organizational Sensing"  
 Based on the references I'm gonna guess it's about Agile! and maybe kubernetes?
 
 One of the things that makes this book so frustrating is that they are constantly saying things that are contradictory, but without any reflection on those contradictions.
@@ -983,10 +933,8 @@ But that is also the reason why you have to discuss and reflect, so that you kno
 
 You cannot with a straight face quote Accelerate (great book) which states as a positive (!) that "architecture and teams are loosely coupled" when YOUR ENTIRE FUCKING BOOK IS SAYING THE FUCKING OPPOSITE AND WEAPONIZES IT TO IT'S ABSOLUTE FULLEST EXTENT.
 
-Come on.
-
-You don't win by saying all the fucking things.
-
+Come on.  
+You don't win by saying all the fucking things.  
 It's less than zero, it's zero, it's more than zero. Look at me! I'm smart.
 
 #### Zero knowledge of products outside of webapps
@@ -1019,20 +967,15 @@ Cybernetics is a broad and quite old field that spawned a lot of subfields in co
 
 Anyway, in cybernetics you are modeling/creating a complex adaptive system. It has some sort of central controller that monitors the health of all of the things in the system (which emit feedback) and this central component can then regulate the system through various mechanisms.
 
-TL;DR: it's Kubernetes.
-
+TL;DR: it's Kubernetes.  
 They are literally going to do Kubernetes on teams.
 
-Me: I'm dying. My liveliness check is failing. Help.
+Me: I'm dying. My liveliness check is failing. Help.  
+Kubernetes: ok. kill -9 patricia  
+Me: SIGKILL ☠️  
+My jokes were apparently not niche enough yet.  
 
-Kubernetes: ok. kill -9 patricia
-
-Me: SIGKILL ☠️
-
-My jokes were apparently not niche enough yet.
-
-JUST ASK THEM.
-
+JUST ASK THEM.  
 I'M DYING HERE.
 
 I am an introvert, like at least half my field, but I know from 20 years of professional experience building shit with 1 to tens (hundreds?) of millions of users:
@@ -1077,9 +1020,8 @@ Something that often happens is that teams are on different schedules and loads,
 
 ## Wrap Up
 
-I need to finish my slides.
-
-Wish me luck 😳
+I need to finish my slides.  
+Wish me luck 😳  
 
 I think I pissed off a bunch of Team Topologies fanboys at my talk. But they didn't talk to me about it 🤔
 
