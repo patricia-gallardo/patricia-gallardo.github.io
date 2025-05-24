@@ -400,8 +400,7 @@ Got a chat platform like Slack or Teams or whatever? A way for people to talk to
 
 > *"this kind of many-to-many communication will tend to produce monolithic, tangled, highly coupled, interdependent systems that do not support fast flow."*
 
-Past Patricia was on the money:
-
+Past Patricia was on the money:  
 *"I posit that this book is a result of a bunch of folks who are personally struggling to understand how anything is ever built by anyone."* [^10]
 
 An aside, but in my experience if you want to make a great API you need a lot of collaboration with users of that API.
