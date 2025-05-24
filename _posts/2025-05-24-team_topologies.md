@@ -814,11 +814,11 @@ Here he is *again* in the very first sentence. The authors are *obsessed* with t
 
 1/2 a page on Thinnest Viable Platform, which is basically "don't overengineer"? Ok, I guess.
 
-*"The Thinnest Viable Platform*
-
-*The simplest platform is purely a list on a wiki page of underlying components or services used by consuming software. If those underlying components and services always work reliably, then there is no need for a full-time platform team. However, as the underlying substrate becomes more complicated — even if all components and services are still outsourced-a platform team can provide a valuable management abstraction over the details of the platform, dealing with the coordination of new and deprecated APIs and components. If an organization needs to build custom solutions and integrations into the platform to meet the needs of Dev teams, then the activities of the platform team increase in scope further.*
-
-*In all cases, we should aim for a thinnest viable platform (TVP) and avoid letting the platform dominate the discourse. As Allan Kelly says, "software developers love building platforms and, without strong product management input, will create a bigger platform than needed." A TVP is a careful balance between keeping the platform small and ensuring that the platform is helping to accelerate and simplify software delivery for teams building on the platform."*
+> *"The Thinnest Viable Platform*
+>
+> *The simplest platform is purely a list on a wiki page of underlying components or services used by consuming software. If those underlying components and services always work reliably, then there is no need for a full-time platform team. However, as the underlying substrate becomes more complicated — even if all components and services are still outsourced-a platform team can provide a valuable management abstraction over the details of the platform, dealing with the coordination of new and deprecated APIs and components. If an organization needs to build custom solutions and integrations into the platform to meet the needs of Dev teams, then the activities of the platform team increase in scope further.*
+>
+> *In all cases, we should aim for a thinnest viable platform (TVP) and avoid letting the platform dominate the discourse. As Allan Kelly says, "software developers love building platforms and, without strong product management input, will create a bigger platform than needed." A TVP is a careful balance between keeping the platform small and ensuring that the platform is helping to accelerate and simplify software delivery for teams building on the platform."*
 
 Ok, this was so basic I doubt it would be useful to anyone working on platforms. This sounds like an executive summary for managers…
 
