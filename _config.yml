@@ -52,9 +52,6 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/pati_gallardo
 
-# Google Analytics Tracking ID goes here:
-google_analytics:
-
 plugins:
   - jekyll-redirect-from
   - jekyll-feed
