@@ -7,35 +7,24 @@ icon: fa-pencil
 image: "/assets/images/tt_slide1.jpg"
 ---
 
-This blogpost is a barely edited version of the Mastodon thread which you can find [here][^1]. It was written over the span of 9 days as I was reading the book, so this is not something written up after. It is what it is.
+This blogpost is a barely edited version of the Mastodon thread [^1]. It was written over the span of 9 days as I was reading the book, so this is not something written up after. It is what it is.
 
 ## Thread Introduction
 
-Alright, I'm back with what I assume will be a week long rage thread about a book I hate. It's really not important for current events in any way, but I signed up for a talk about it in the before-times.
-
-So mute this, it's absolutely not interesting unless your org is actually reorging based on this book.
-
-I'd suggest not to argue with me in this thread, I've bought the book twice and I hate it. I have paid my dues, and I am already pissed that Past Patricia made me read it again.
+Alright, I'm back with what I assume will be a week long rage thread about a book I hate. It's really not important for current events in any way, but I signed up for a talk about it in the before-times. So mute this, it's absolutely not interesting unless your org is actually reorging based on this book. I'd suggest not to argue with me in this thread, I've bought the book twice and I hate it. I have paid my dues, and I am already pissed that Past Patricia made me read it again.
 
 ### Reasons I hate the book
 
 1. It's wrong. If you follow whatever you manage to actually glean from this book your org will be less efficient and worse in basically every respect for absolutely no good reason.
-
 2. It is really, really badly written.
-
 3. The "logical" argument does not follow actual rules of logic (which I find surprisingly infuriating).
-
 4. The parts that are not garbage are just regurgitation of other peoples thoughts.
 
-Since people tell me that I'm supposed to say something nice too:
-
-The graphical designer did a really great job, y'all should hire him, his name is Devon Smith.
-
-The editors also did ok, the titles of parts, chapters etc almost seem to make sense.
+Since people tell me that I'm supposed to say something nice too: The graphical designer did a really great job, y'all should hire him, his name is Devon Smith. The editors also did ok, the titles of parts, chapters etc almost seem to make sense.
 
 ### Last time I yelled at this book
 
-[Thread][^2] from the first time I read this book.
+Thread [^2] from the first time I read this book.
 
 ### Fundamental "logical" conclusion of the book
 
@@ -53,11 +42,9 @@ It is a made up intellectual exercise that undermines decades of proven progress
 
 Any part of it you might agree with is someone else's idea. They are pulling in the works of literally dozens and dozens of other peoples original work. Some of it is contradictory to each other.
 
-Everything written about software dev in the past 25-45 years is in there somewhere.
-
-That does not make it good.
-
-That makes it unreadable.
+* Everything written about software dev in the past 25-45 years is in there somewhere.
+* That does not make it good.
+* That makes it unreadable.
 
 ### Meta
 
@@ -70,16 +57,14 @@ FYI any "well actually" might result in a mute or a block because (read post 1) 
 Starting from the beginning. The logical foundation from which all this springs: Part 1, chapter 1. Based around 2 ideas belonging to other people:
 
 1. Conway's Law, 1967 (which is an observation based on Mel Conway's own experience) [^3]
-
 2. Inverse Conway Maneuver, 2015 (which is a made up thought experiment by James Lewis et al of Thoughtworks) [^4]
 
 #### Conway's law
 
 Based on my own experience I can see how Conway's Law can be plausible:
 
-> *"\[O\]rganizations which design systems (in the broad sense used here) are constrained to produce designs which are copies of the communication structures of these organizations.*
->
-> Melvin E. Conway, How Do Committees Invent?" [^5]
+> *"\[O\]rganizations which design systems (in the broad sense used here) are constrained to produce designs which are copies of the communication structures of these organizations."*
+> Melvin E. Conway, How Do Committees Invent? [^5]
 
 ##### Agile and DevOps was about more communication
 
@@ -1052,17 +1037,11 @@ I am an introvert, like at least half my field, but I know from 20 years of prof
 
 YOU HAVE TO FUCKING TALK TO PEOPLE.
 
-Only juniors think this is a profession that is solved at a keyboard all by yourself.
-
-Not talking to people is 💯 junior behavior.
+Only juniors think this is a profession that is solved at a keyboard all by yourself. Not talking to people is 💯 junior behavior.
 
 When you're a junior you're focused on building your technical skills, when you're a senior you focus on Building Useful Shit That People Will Use.
 
-I told you [^21] some DBA hurt them.
-
-Step forward, what did you do? Did you show them the Oracle bill? You know that's not allowed.
-
-We will let Patricia "refactor" your stored procedures as your punishment.
+I told you [^21] some DBA hurt them. Step forward, what did you do? Did you show them the Oracle bill? You know that's not allowed. We will let Patricia "refactor" your stored procedures as your punishment.
 
 Alright, 2 things:
 
@@ -1076,14 +1055,10 @@ The authors have a very outdated understanding of how products are built today, 
 Ok, before we move on to the conclusion, a few thoughts on how this book is problematic.
 
 1. If you view this book as an Intro To Tech Orgs, then it:
-
 - should not bring in any of the author's opinions.  
 - It should stay descriptive and also encourage reflection and discuss cons and learnings more in depth.
-
 2. The thoughts that are the authors' own are not only misguided, they would, if applied, create a stale architecture and organization that is feature driven and will over time fail to adapt to changing conditions and requirements. The overall knowledge of how the system works as a whole is intentionally erased, and that is needed for transformation. (Also it should've been a blogpost jeez)
-
 3. Anyone who needs to read this book to understand How Tech Orgs Work, does not have the requisite knowledge to perform this kind of invasive re-org.
-
 4. This book is so fucking condescending and Dunning-Kruger. Your industry experience is clearly extremely limited and old. That is not a basis for telling professionals who are actually shipping shit today what to do.
 
 This book is a mix of an extremely shallow Beginners Guide with an extremely invasive and normative ReOrg FTW.
@@ -1106,7 +1081,7 @@ Wish me luck 😳
 
 I think I pissed off a bunch of Team Topologies fanboys at my talk. But they didn't talk to me about it 🤔
 
-My slides [^22], a bit more than I showed because I had a mic issue in the middle so lost a few minutes there, but it was a nice slide to end on anyway.
+My slides: [^22], a bit more than I showed because I had a mic issue in the middle so lost a few minutes there, but it was a nice slide to end on anyway.
 
 Someone called me "brave" on LinkedIn and said criticizing Team Topologies was a "courageous move" and I risk "professional repercussions". And wow 😬
 
@@ -1115,7 +1090,7 @@ Someone called me "brave" on LinkedIn and said criticizing Team Topologies was a
 
 Shout out to folks who got this far in the thread and still came to my talk 💜
 
-Call me old (and brave), but this I think should be uncontroversial in 2025.
+Call me old (and brave), but this I think should be uncontroversial in 2025:
 
 <img src="../assets/images/tt_slide51.jpg" alt="Text: What have we learned? To build good things: we need to talk to others. See: Agile, User Experience, Product Management. To build things fast: we need to talk to each other.  See: DevOps" width="200"/>
 
