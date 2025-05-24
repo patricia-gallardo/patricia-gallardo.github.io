@@ -1104,7 +1104,7 @@ Thanks for the ride folks!
 
 <img src="../assets/images/tt_slide64.jpg" alt="Picture: weirdly happy skull in a hat. Text: And one day, seemingly by magic. You'll make something they love." width="200"/>
 
-<img src="../assets/images/tt_slide67.jpg" alt="Picture: Blue hair woman staring up and past you. Text: Anyone who needs to read this book to understand How Tech Orgs Work, does not have the requisite knowledge to make anyone good at this." width="200"/>
+<img src="/assets/images/tt_slide67.jpg" alt="Picture: Blue hair woman staring up and past you. Text: Anyone who needs to read this book to understand How Tech Orgs Work, does not have the requisite knowledge to make anyone good at this." width="200"/>
 
 [^1]: https://social.vivaldi.net/@Patricia/114494893265832336
 [^2]: https://social.vivaldi.net/@Patricia/112704847971770579
