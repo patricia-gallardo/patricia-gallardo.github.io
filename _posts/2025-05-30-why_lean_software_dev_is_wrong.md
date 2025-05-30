@@ -175,11 +175,11 @@ We like to think we know what we want, but we don't. My advice to people who wan
 
 ## Why should you care?
 
-The point of this whole blogpost is that your mental model for "what making software is" is extremely important when trying to figure out how to "manage" it. If you think it is manufacturing you will try to *Make It Right The First Time*, *Eliminate Waste*, etc. When you realize that it is a process of discovery, of trying to find out What Is Right, you will behave completely differently. You might want to get something into users hands as fast as possible (*Minimal Viable/Valuable Product*), or run parallel experiments in production with different versions (*A/B testing*), study users using the product (*UX testing*) etc. The goal isn't to *Produce*, the goal is to find out *What We Should Build*.
+The point of this whole blogpost is that your mental model for *"What Making Software Is"* is extremely important when trying to figure out how to "manage" it. If you think it is manufacturing you will try to *Make It Right The First Time*, *Eliminate Waste*, etc. When you realize that it is a process of discovery, of trying to find out *What Is Right*, you will behave completely differently. You might want to get something into users hands as fast as possible (*Minimal Viable/Valuable Product*), or run parallel experiments in production with different versions (*A/B testing*), study users using the product (*UX testing*) etc. The goal isn't to *Produce*, the goal is to find out *What We Should Build*.
 
-Of all the worst things that happened in software dev because of *Lean Software Development*, the biggest is probably the idea of *"Waste"*. Firstly, because a metaphor is a terrible basis for a clear meaning for a word, what *"Waste"* *is* is completely subjective, and very much dependent on what you think Software Development Is. And that brings us to the second problem, it is used as a reason to undermine and sabotage Anything I Don't Like.
+Of all the worst things that happened in software dev because of *Lean Software Development*, the biggest is probably the idea of *"Waste"*. Firstly, because a metaphor is a terrible basis for a clear meaning for a word, what *"Waste"* *is* is completely subjective, and very much dependent on what you think Software Development *is*. And that brings us to the second problem, it is used as a reason to undermine and sabotage *Anything I Don't Like*.
 
-But thirdly, and in my not so humble opinion, most importantly: So much of what is essential for Making Great Products, will look like *"Waste"*, when viewed through a manufacturing lens.
+But thirdly, and in my not so humble opinion, most importantly: So much of what is essential for *Making Great Products*, will look like *"Waste"*, when viewed through a manufacturing lens.
 
 So finally, back to Robert Smallshire: "I wish we could get away from trying to describe and understand software intensive systems and development processes through analogy with factories/gardens/farms/sports/whatever and deal with software on its own terms".
 
@@ -191,7 +191,7 @@ Instinctively, I feel that it should be possible, but I have been reminded time 
 >
 > ― Upton Sinclair, I, Candidate for Governor: And How I Got Licked
 
-PS. Yes, this whole thread is relevant to the question: will AI take my programming job? But answering that question is left as an exercise to the reader.
+PS. Yes, this blogpost is relevant to the question: will AI take my programming job? But answering that question is left as an exercise to the reader.
 
 [1]: https://mastodon.social/@PeterSommerlad/114580794562975021
 [2]: https://en.wikipedia.org/wiki/Schema_(psychology)
