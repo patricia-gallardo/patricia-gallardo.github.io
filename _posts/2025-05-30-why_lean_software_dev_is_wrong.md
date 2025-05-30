@@ -39,7 +39,7 @@ In a physical "factory" you could think of this as maybe a production line (I do
 
 That doesn't fit exactly, because in "Pipes and Filters" we imagine that the kind of thing that goes in is the kind of thing that goes out. But I think this is us just being slightly imprecise because when we say "same" that is in shape, not in meaning.
 
-So imagine a pipeline that takes in encrypted text and the first "filter" decrypts the text, the second takes the decrypted text and strips away the beginning and the end, the third takes its input and sends it in an email.
+So imagine a pipeline that takes in encrypted text and the first "filter" decrypts the text, the second takes the decrypted text and strips away the beginning and the end, the third takes its input and sends it in an email. From a programmers perspective, we might think of these inputs and outputs as the "same" because they are text, however, in meaning, they are very different.
 
 However this is 1 input to 1 input, and that is a simplification. Most of the time that's not actually how even *these* things work.
 
