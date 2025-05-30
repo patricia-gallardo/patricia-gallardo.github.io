@@ -92,7 +92,7 @@ Short answer: We are not *"factories"*, we are designers of *"factories"*.
 
 Very Long Answer:
 
-I don’t know what it takes to *"get"* what we do, and how we do it, a lot of devs struggle to *"get it"* too. I think that is part of the reason we have struggled to find a *Better Way* to do things. What I have been starting to wonder is if the problem is the metal model we have for how it's done.
+I don’t know what it takes to *"get"* what we do, and how we do it, a lot of devs struggle to *"get it"* too. I think that is part of the reason we have struggled to find a *Better Way* to do things. What I have been starting to wonder is if the problem is the mental model we have for how it's done.
 
 If you watch an author of fiction, they will look like a person typing. So if you don’t know what it means to write fiction, you might think that they're just typing out pages. If you want to optimize this process, you might try to optimize for them typing faster. But it isn’t typing speed that is constraining storytelling.
 
