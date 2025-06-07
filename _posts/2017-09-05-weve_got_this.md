@@ -19,7 +19,7 @@ However, I don’t want to talk about that now, because how the rest of the stor
 
 Saturday, a week and a half ago, I tweeted out a thread in frustration. It summarized my research so far into this ballot counting system. Suddenly my thread was retweeted and liked by hundreds of people in the scope of just a few hours and it reached the media. The people lifting up my thread were people all over Norway interested in tech and security.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="no" dir="ltr">1/ Maskinene som teller stemmene under valget er random Windows maskiner koblet til Internett, som alle kjører samme program.</p>&mdash; Patricia Aas (@pati_gallardo) <a href="https://twitter.com/pati_gallardo/status/901505121233903621?ref_src=twsrc%5Etfw">August 26, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="no" dir="ltr">1/ Maskinene som teller stemmene under valget er random Windows maskiner koblet til Internett, som alle kjører samme program.</p>&mdash; Patricia Aas (@pati_gallardo [DELETED_ACCOUNT]) <a href="https://twitter.com/pati_gallardo_[DELETED_ACCOUNT]/status/901505121233903621?ref_src=twsrc%5Etfw">August 26, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 My message finally broke through and became a a national story. I was just a person tweeting and suddenly I was on the news and in debates live on TV. Less than a week later and 10 days before the parliamentary election the Norwegian Ministry of Local Government and Modernisation issued a new regulation mandating that all ballots had to be counted manually at least once.

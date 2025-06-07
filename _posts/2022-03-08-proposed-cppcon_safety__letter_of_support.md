@@ -334,7 +334,7 @@ Bita Hasheminezhad <br>
 Ways to sign this letter:
 1. A PR on the repo - path to file: [_posts/2022-03-08-proposed-cppcon_safety__letter_of_support.md][4]
 2. Make an issue on the [patricia.no repo][5]
-3. Contact [@pati_gallardo][7] on Twitter DM or DM on the [#include <C++> discord][6]
+3. Contact [@pati_gallardo [DELETED_ACCOUNT]][7] on Twitter DM or DM on the [#include <C++> discord][6]
 4. Send an email to patricia@turtlesec.no
 
 [1]: https://patricia.no/2022/03/08/proposed-cppcon_safety__transparency_report.html
@@ -343,5 +343,5 @@ Ways to sign this letter:
 [4]: https://github.com/patricia-gallardo/patricia-gallardo.github.io/tree/master/_posts/2022-03-08-proposed-cppcon_safety__letter_of_support.md
 [5]: https://github.com/patricia-gallardo/patricia-gallardo.github.io
 [6]: https://www.includecpp.org/discord/
-[7]: https://twitter.com/pati_gallardo
+[7]: https://twitter.com/pati_gallardo_[DELETED_ACCOUNT]
 [8]: https://www.includecpp.org/

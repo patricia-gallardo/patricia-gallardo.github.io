@@ -9,7 +9,7 @@ image: "/assets/images/human-3190531_640.jpg"
 
 After my blog post [Survival Tips For Women In Tech][1] surfaced yet again, [@e8johan][2] replied "I would love something of a guide to complement the warnings. Like 'How to manage teams for diversity'", and in response I posted the thread below, starting with the final one here to keep the thread together.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">24) Have her back always, but present her feelings as your feelings: *I* don’t think it’s appropriate to ask her to do this recruitment event. *I* don’t think this project is challenging enough for her.<br><br>Don’t push her in front of you. <br>Always put yourself in front of her.</p>&mdash; Patricia Aas 🐢 (@pati_gallardo) <a href="https://twitter.com/pati_gallardo/status/1386354710232371210?ref_src=twsrc%5Etfw">April 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">24) Have her back always, but present her feelings as your feelings: *I* don’t think it’s appropriate to ask her to do this recruitment event. *I* don’t think this project is challenging enough for her.<br><br>Don’t push her in front of you. <br>Always put yourself in front of her.</p>&mdash; Patricia Aas 🐢 (@pati_gallardo [DELETED_ACCOUNT]) <a href="https://twitter.com/pati_gallardo_[DELETED_ACCOUNT]/status/1386354710232371210?ref_src=twsrc%5Etfw">April 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Below I will try to expand on the items, to provide more context.
 
